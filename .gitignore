@@ -1,0 +1,11 @@
+# Credenciales - NUNCA subir al repositorio
+.env
+.env.*
+
+# Caché
+.cache_kulturklik/
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
