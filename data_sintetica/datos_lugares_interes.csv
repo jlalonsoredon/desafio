@@ -1,0 +1,2001 @@
+﻿Id_user,Sexo,Edad,Municipio,Museos,Museos_Historia,Museos_Ciencias_Naturales,Museos_Arte,Museos_Etnografia,Patrimonio_cultural,Target_Review
+U00001,F,70,Bilbao,1,1,1,1,1,1,4
+U00002,F,59,Irun,1,1,1,0,1,0,3
+U00003,M,47,Vitoria-Gasteiz,1,1,1,1,1,1,4
+U00004,F,53,Bilbao,1,1,1,1,0,0,4
+U00005,F,49,Zarautz,1,1,1,1,1,1,4
+U00006,F,37,Donostia-San Sebastián,1,1,1,1,1,1,5
+U00007,F,44,Bilbao,1,1,1,1,1,1,5
+U00008,F,26,Donostia-San Sebastián,1,1,0,1,1,1,5
+U00009,M,60,Donostia-San Sebastián,1,1,1,1,1,1,5
+U00010,F,54,Basauri,1,1,0,1,1,1,4
+U00011,M,55,Llodio,0,0,0,0,0,1,3
+U00012,F,63,Donostia-San Sebastián,0,0,0,0,0,1,3
+U00013,F,38,Vitoria-Gasteiz,0,0,0,0,0,0,3
+U00014,F,46,Bilbao,1,1,1,1,1,0,4
+U00015,F,63,Barakaldo,1,0,0,1,1,1,5
+U00016,M,57,Vitoria-Gasteiz,1,1,1,0,1,1,4
+U00017,F,57,Bermeo,1,1,1,1,1,1,3
+U00018,F,54,Amurrio,1,1,0,0,0,1,4
+U00019,M,63,Zarautz,1,1,1,1,1,1,4
+U00020,M,55,Vitoria-Gasteiz,1,1,0,0,1,1,4
+U00021,F,40,Bilbao,0,0,0,0,0,1,3
+U00022,M,75,Santurtzi,1,1,1,1,0,1,4
+U00023,M,45,Vitoria-Gasteiz,1,1,1,1,1,1,5
+U00024,M,47,Azpeitia,1,0,1,0,1,1,4
+U00025,M,45,Errenteria,1,1,0,1,1,1,4
+U00026,M,62,Barakaldo,1,1,1,0,1,1,5
+U00027,M,53,Bilbao,0,0,0,0,0,0,2
+U00028,M,52,Getxo,1,0,1,1,1,1,5
+U00029,M,46,Barakaldo,1,1,0,0,1,1,4
+U00030,F,60,Barakaldo,1,1,0,1,0,0,4
+U00031,F,65,Errenteria,1,1,1,1,0,1,4
+U00032,M,46,Donostia-San Sebastián,0,0,0,0,0,1,3
+U00033,F,56,Bilbao,1,1,0,1,0,1,4
+U00034,F,30,Getxo,1,1,0,0,1,0,4
+U00035,F,69,Donostia-San Sebastián,1,1,1,1,0,1,4
+U00036,F,61,Vitoria-Gasteiz,1,1,1,1,0,1,4
+U00037,M,34,Portugalete,1,0,0,0,0,1,3
+U00038,F,59,Vitoria-Gasteiz,1,1,1,0,1,1,4
+U00039,M,52,Bilbao,1,1,1,0,0,0,3
+U00040,F,59,Errenteria,0,0,0,0,0,1,3
+U00041,F,59,Bilbao,0,0,0,0,0,1,3
+U00042,F,62,Donostia-San Sebastián,1,0,0,0,1,1,4
+U00043,F,52,Donostia-San Sebastián,1,1,1,1,0,1,5
+U00044,F,52,Portugalete,1,1,0,1,0,0,3
+U00045,F,65,Bilbao,1,1,1,1,1,1,5
+U00046,M,54,Beasain,1,1,0,1,1,1,5
+U00047,F,53,Barakaldo,1,1,1,1,1,1,4
+U00048,M,65,Irun,1,1,0,1,1,1,4
+U00049,M,53,Donostia-San Sebastián,0,0,0,0,0,1,3
+U00050,F,63,Tolosa,1,1,1,1,1,0,4
+U00051,M,64,Donostia-San Sebastián,1,1,1,0,1,1,5
+U00052,M,46,Santurtzi,0,0,0,0,0,0,3
+U00053,M,51,Eibar,0,0,0,0,0,0,2
+U00054,M,73,Barakaldo,0,0,0,0,0,0,2
+U00055,M,75,Irun,1,1,1,1,0,1,4
+U00056,M,59,Leioa,1,1,0,0,0,1,4
+U00057,F,57,Zarautz,0,0,0,0,0,1,3
+U00058,M,46,Errenteria,1,0,1,1,0,1,4
+U00059,M,54,Bilbao,0,0,0,0,0,1,3
+U00060,F,59,Zarautz,1,1,0,0,1,1,4
+U00061,M,50,Bilbao,0,0,0,0,0,1,3
+U00062,M,58,Errenteria,1,0,0,0,1,1,3
+U00063,M,55,Hernani,1,1,1,1,1,1,4
+U00064,F,58,Tolosa,1,1,0,0,0,1,4
+U00065,M,50,Irun,1,1,0,1,0,1,5
+U00066,F,68,Getxo,1,1,0,1,0,1,4
+U00067,F,65,Barakaldo,0,0,0,0,0,1,2
+U00068,F,50,Bilbao,1,0,1,1,0,1,4
+U00069,M,55,Vitoria-Gasteiz,1,1,1,0,1,0,4
+U00070,F,50,Bilbao,1,1,1,1,1,1,5
+U00071,F,56,Donostia-San Sebastián,1,1,0,1,1,0,4
+U00072,F,48,Donostia-San Sebastián,1,0,0,0,0,1,3
+U00073,F,50,Amurrio,1,1,0,1,1,1,4
+U00074,M,58,Irun,0,0,0,0,0,0,3
+U00075,M,35,Basauri,1,0,1,1,1,1,5
+U00076,M,48,Errenteria,0,0,0,0,0,1,3
+U00077,M,53,Zarautz,0,0,0,0,0,1,2
+U00078,F,45,Bilbao,1,1,1,0,1,1,5
+U00079,M,51,Portugalete,1,1,1,1,1,0,4
+U00080,M,52,Errenteria,1,0,0,0,1,0,3
+U00081,F,60,Bilbao,1,0,0,1,0,0,3
+U00082,F,62,Bilbao,1,1,0,1,1,1,4
+U00083,M,54,Llodio,1,1,0,1,1,0,5
+U00084,M,47,Llodio,1,1,1,1,0,0,4
+U00085,F,46,Donostia-San Sebastián,1,0,0,1,0,1,4
+U00086,M,64,Basauri,1,1,1,1,1,1,4
+U00087,M,51,Donostia-San Sebastián,1,1,0,1,1,1,4
+U00088,M,50,Bermeo,1,0,1,1,0,1,4
+U00089,F,61,Barakaldo,1,1,1,1,1,1,5
+U00090,F,49,Tolosa,1,0,0,1,0,1,3
+U00091,F,46,Errenteria,1,1,1,0,0,1,4
+U00092,M,53,Zarautz,0,0,0,0,0,0,3
+U00093,F,36,Errenteria,0,0,0,0,0,0,3
+U00094,F,58,Donostia-San Sebastián,1,0,1,0,1,1,4
+U00095,M,28,Hernani,0,0,0,0,0,1,4
+U00096,M,46,Errenteria,1,0,0,0,1,1,4
+U00097,F,59,Amurrio,1,1,1,1,1,1,4
+U00098,F,65,Santurtzi,1,1,0,1,0,1,4
+U00099,F,56,Leioa,1,1,1,0,1,1,3
+U00100,F,62,Errenteria,1,0,0,1,0,1,3
+U00101,M,25,Bilbao,1,1,1,1,1,1,5
+U00102,F,51,Donostia-San Sebastián,1,0,1,1,1,0,4
+U00103,M,53,Eibar,1,1,1,1,1,1,5
+U00104,F,53,Durango,1,1,0,0,1,0,3
+U00105,M,48,Azpeitia,1,0,0,1,1,1,4
+U00106,M,53,Errenteria,1,1,1,1,1,1,5
+U00107,F,53,Donostia-San Sebastián,1,0,1,0,1,1,4
+U00108,M,47,Irun,1,0,0,1,0,1,4
+U00109,F,48,Bilbao,1,1,0,0,0,1,4
+U00110,F,64,Leioa,1,1,1,1,0,1,4
+U00111,M,60,Portugalete,1,0,1,0,0,1,2
+U00112,F,59,Bilbao,1,0,0,1,0,0,2
+U00113,F,62,Getxo,0,0,0,0,0,1,3
+U00114,M,54,Durango,1,1,0,0,0,1,3
+U00115,F,52,Donostia-San Sebastián,0,0,0,0,0,1,3
+U00116,F,43,Durango,0,0,0,0,0,1,3
+U00117,F,47,Bilbao,0,0,0,0,0,1,3
+U00118,M,52,Vitoria-Gasteiz,1,1,0,0,0,1,3
+U00119,F,55,Basauri,0,0,0,0,0,1,3
+U00120,F,59,Bilbao,1,1,0,0,1,1,3
+U00121,F,47,Bilbao,1,0,0,1,1,1,4
+U00122,M,65,Santurtzi,1,1,1,0,1,1,4
+U00123,F,75,Vitoria-Gasteiz,1,1,0,0,0,1,4
+U00124,M,33,Bilbao,1,1,1,0,1,0,4
+U00125,M,53,Bilbao,1,1,1,1,1,1,5
+U00126,F,58,Basauri,1,1,0,1,0,1,3
+U00127,M,46,Portugalete,1,1,0,0,1,0,2
+U00128,M,64,Errenteria,1,1,1,0,1,1,4
+U00129,F,62,Leioa,1,1,0,1,1,0,4
+U00130,F,45,Llodio,1,1,0,0,1,0,3
+U00131,F,51,Irun,1,1,0,1,1,0,4
+U00132,M,52,Eibar,0,0,0,0,0,0,3
+U00133,F,46,Bilbao,0,0,0,0,0,0,3
+U00134,F,59,Donostia-San Sebastián,1,1,1,0,0,1,4
+U00135,F,47,Azpeitia,0,0,0,0,0,1,2
+U00136,M,48,Basauri,1,1,0,1,1,1,5
+U00137,M,59,Durango,1,1,1,0,1,1,4
+U00138,F,53,Bermeo,0,0,0,0,0,0,2
+U00139,M,26,Vitoria-Gasteiz,1,1,1,0,1,1,4
+U00140,M,47,Vitoria-Gasteiz,1,1,0,1,1,0,4
+U00141,M,64,Barakaldo,1,0,0,1,1,0,4
+U00142,F,64,Bilbao,1,1,1,1,0,0,4
+U00143,F,65,Getxo,1,1,0,1,1,1,4
+U00144,M,62,Llodio,1,0,0,1,1,0,3
+U00145,F,53,Basauri,1,1,0,1,1,1,4
+U00146,F,53,Bilbao,0,0,0,0,0,1,4
+U00147,M,45,Vitoria-Gasteiz,1,0,0,0,0,1,3
+U00148,F,63,Donostia-San Sebastián,0,0,0,0,0,0,3
+U00149,M,45,Getxo,1,0,0,1,1,1,4
+U00150,M,54,Bermeo,1,1,1,1,0,0,3
+U00151,M,51,Durango,1,1,0,1,0,1,3
+U00152,F,63,Bilbao,0,0,0,0,0,0,2
+U00153,F,54,Donostia-San Sebastián,1,0,1,1,1,1,5
+U00154,F,25,Bilbao,1,1,0,1,0,1,4
+U00155,M,58,Portugalete,1,0,0,0,1,0,3
+U00156,M,57,Barakaldo,0,0,0,0,0,0,3
+U00157,M,49,Durango,0,0,0,0,0,1,3
+U00158,M,57,Donostia-San Sebastián,1,1,1,0,1,1,4
+U00159,F,46,Tolosa,1,1,1,1,1,1,5
+U00160,M,25,Barakaldo,0,0,0,0,0,1,3
+U00161,M,49,Zarautz,1,1,0,0,1,1,4
+U00162,F,51,Bilbao,0,0,0,0,0,0,2
+U00163,F,57,Barakaldo,1,0,1,1,0,1,4
+U00164,F,46,Errenteria,1,1,0,1,0,1,4
+U00165,M,61,Barakaldo,1,0,0,0,0,0,3
+U00166,M,46,Getxo,0,0,0,0,0,1,3
+U00167,M,65,Eibar,1,1,1,1,0,1,4
+U00168,M,46,Tolosa,0,0,0,0,0,1,3
+U00169,F,47,Hernani,0,0,0,0,0,0,3
+U00170,M,55,Donostia-San Sebastián,1,1,1,0,1,0,5
+U00171,F,45,Zarautz,1,1,0,1,1,1,4
+U00172,M,60,Errenteria,0,0,0,0,0,0,3
+U00173,M,51,Bilbao,1,0,0,1,0,1,3
+U00174,M,54,Bilbao,1,1,1,1,0,1,4
+U00175,F,47,Bilbao,1,1,1,1,1,1,5
+U00176,M,65,Leioa,1,0,0,0,1,1,3
+U00177,F,48,Amurrio,0,0,0,0,0,1,3
+U00178,M,56,Tolosa,1,1,0,1,0,1,4
+U00179,F,59,Bilbao,1,1,0,1,1,1,5
+U00180,M,61,Errenteria,1,1,1,1,1,1,4
+U00181,M,52,Bilbao,0,0,0,0,0,1,3
+U00182,M,55,Bilbao,1,1,1,0,0,1,4
+U00183,F,61,Zarautz,1,1,0,0,0,1,3
+U00184,M,46,Bilbao,0,0,0,0,0,1,3
+U00185,M,60,Donostia-San Sebastián,1,0,0,1,0,1,4
+U00186,F,48,Donostia-San Sebastián,1,1,0,0,1,1,4
+U00187,M,60,Zarautz,1,0,1,1,1,1,4
+U00188,F,34,Portugalete,1,0,1,0,1,1,4
+U00189,F,65,Bilbao,1,0,0,0,1,1,3
+U00190,M,47,Bilbao,1,1,1,1,1,1,5
+U00191,F,60,Donostia-San Sebastián,1,0,0,1,0,1,4
+U00192,F,50,Vitoria-Gasteiz,1,1,0,1,0,1,4
+U00193,M,61,Donostia-San Sebastián,1,0,0,0,1,1,3
+U00194,F,60,Portugalete,1,1,1,1,1,1,5
+U00195,F,54,Vitoria-Gasteiz,1,1,1,1,0,1,4
+U00196,F,55,Donostia-San Sebastián,1,0,1,1,1,1,4
+U00197,F,54,Bilbao,1,1,0,0,1,0,3
+U00198,F,63,Bilbao,0,0,0,0,0,1,4
+U00199,F,46,Getxo,0,0,0,0,0,1,2
+U00200,M,51,Santurtzi,1,0,0,0,1,1,3
+U00201,M,57,Zarautz,1,0,0,1,0,0,4
+U00202,M,46,Azpeitia,0,0,0,0,0,0,2
+U00203,F,60,Vitoria-Gasteiz,1,1,0,1,1,1,4
+U00204,F,52,Bilbao,1,1,1,1,0,1,3
+U00205,F,55,Hernani,1,1,0,0,1,0,4
+U00206,M,63,Errenteria,1,1,0,0,1,1,4
+U00207,F,51,Vitoria-Gasteiz,0,0,0,0,0,1,3
+U00208,F,40,Portugalete,1,0,1,1,1,1,4
+U00209,F,48,Bilbao,1,1,0,1,1,1,4
+U00210,F,64,Bilbao,1,1,1,1,1,1,4
+U00211,M,60,Hernani,1,1,0,0,1,1,3
+U00212,M,50,Donostia-San Sebastián,1,1,0,0,0,0,3
+U00213,M,49,Llodio,1,1,0,1,1,1,4
+U00214,F,49,Eibar,1,1,1,0,1,1,3
+U00215,F,64,Bilbao,0,0,0,0,0,1,2
+U00216,M,74,Bilbao,0,0,0,0,0,1,4
+U00217,M,52,Azpeitia,1,1,1,0,0,1,4
+U00218,M,73,Getxo,1,1,1,0,1,1,4
+U00219,F,57,Errenteria,0,0,0,0,0,0,3
+U00220,M,59,Getxo,1,1,1,1,0,1,4
+U00221,M,64,Getxo,1,1,1,0,0,1,4
+U00222,M,57,Bilbao,1,1,1,1,1,1,5
+U00223,M,50,Donostia-San Sebastián,1,1,1,0,0,1,5
+U00224,M,57,Leioa,1,1,1,0,1,0,4
+U00225,M,65,Vitoria-Gasteiz,0,0,0,0,0,1,3
+U00226,F,63,Hernani,1,0,1,1,1,1,4
+U00227,F,63,Vitoria-Gasteiz,1,0,0,0,1,1,4
+U00228,F,31,Tolosa,1,1,1,1,1,1,4
+U00229,F,65,Irun,1,0,0,0,1,1,3
+U00230,F,62,Donostia-San Sebastián,0,0,0,0,0,1,2
+U00231,F,50,Bilbao,1,1,0,1,1,1,4
+U00232,M,49,Bilbao,1,1,0,0,0,0,3
+U00233,F,48,Donostia-San Sebastián,1,1,0,0,1,0,3
+U00234,M,54,Donostia-San Sebastián,1,1,1,0,1,1,4
+U00235,F,55,Vitoria-Gasteiz,1,1,1,1,1,0,4
+U00236,F,52,Bilbao,1,1,0,1,1,1,4
+U00237,F,59,Donostia-San Sebastián,1,0,1,1,1,1,5
+U00238,F,46,Barakaldo,0,0,0,0,0,1,4
+U00239,F,68,Errenteria,1,1,1,0,1,1,4
+U00240,M,50,Barakaldo,0,0,0,0,0,1,3
+U00241,F,54,Donostia-San Sebastián,1,0,0,1,1,0,3
+U00242,F,27,Durango,0,0,0,0,0,0,3
+U00243,F,54,Bilbao,1,1,1,1,1,1,5
+U00244,M,56,Errenteria,1,1,1,1,1,0,4
+U00245,F,48,Bilbao,1,1,1,1,1,1,4
+U00246,M,47,Leioa,1,1,1,1,1,1,5
+U00247,F,61,Tolosa,1,1,1,1,1,1,4
+U00248,M,58,Vitoria-Gasteiz,1,0,0,0,1,1,3
+U00249,F,65,Errenteria,1,1,1,1,1,1,4
+U00250,M,45,Barakaldo,1,1,0,0,0,1,5
+U00251,F,62,Getxo,0,0,0,0,0,1,3
+U00252,F,36,Basauri,1,1,1,0,1,1,4
+U00253,M,47,Bilbao,1,1,1,0,1,1,5
+U00254,F,56,Bilbao,1,1,1,1,1,1,4
+U00255,M,74,Bilbao,0,0,0,0,0,0,3
+U00256,F,53,Bilbao,1,1,0,1,1,1,4
+U00257,F,46,Vitoria-Gasteiz,1,1,1,1,0,1,5
+U00258,M,62,Bilbao,1,0,0,0,0,1,3
+U00259,F,57,Bilbao,1,1,0,1,1,1,4
+U00260,M,61,Donostia-San Sebastián,0,0,0,0,0,0,2
+U00261,M,65,Vitoria-Gasteiz,0,0,0,0,0,1,4
+U00262,F,64,Bilbao,0,0,0,0,0,0,3
+U00263,F,61,Vitoria-Gasteiz,1,1,0,1,1,0,4
+U00264,F,54,Bilbao,1,1,0,0,1,1,4
+U00265,F,53,Bermeo,0,0,0,0,0,1,2
+U00266,F,49,Donostia-San Sebastián,1,1,1,1,1,1,4
+U00267,F,50,Irun,1,1,1,1,1,1,4
+U00268,F,56,Bilbao,1,1,1,0,1,1,5
+U00269,F,57,Bilbao,1,1,1,1,1,1,4
+U00270,F,58,Tolosa,1,1,1,1,1,1,4
+U00271,F,60,Vitoria-Gasteiz,1,1,1,1,1,1,4
+U00272,M,49,Vitoria-Gasteiz,1,1,1,0,1,1,4
+U00273,M,35,Hernani,0,0,0,0,0,1,3
+U00274,M,60,Getxo,0,0,0,0,0,1,2
+U00275,M,50,Hernani,1,0,1,0,0,1,4
+U00276,F,49,Barakaldo,1,0,1,1,1,1,5
+U00277,M,51,Donostia-San Sebastián,1,1,0,1,1,1,4
+U00278,F,25,Bermeo,1,1,1,1,1,0,5
+U00279,F,59,Basauri,1,1,1,1,0,1,4
+U00280,F,28,Barakaldo,1,1,0,0,0,1,4
+U00281,F,62,Basauri,1,1,0,1,1,0,4
+U00282,F,49,Irun,1,1,0,0,0,1,3
+U00283,M,48,Donostia-San Sebastián,1,1,0,0,1,0,3
+U00284,M,57,Vitoria-Gasteiz,1,1,1,1,0,1,4
+U00285,F,56,Donostia-San Sebastián,1,0,1,1,1,1,4
+U00286,F,56,Barakaldo,1,1,1,0,1,1,5
+U00287,F,52,Irun,1,1,0,1,1,1,5
+U00288,M,55,Getxo,1,0,0,0,0,1,3
+U00289,F,30,Durango,1,0,0,1,0,0,3
+U00290,F,60,Eibar,1,0,1,1,1,1,4
+U00291,M,47,Donostia-San Sebastián,1,0,0,0,0,0,3
+U00292,M,45,Durango,0,0,0,0,0,1,3
+U00293,F,45,Bilbao,1,1,0,0,1,1,4
+U00294,F,45,Santurtzi,1,1,0,0,0,0,3
+U00295,F,60,Getxo,0,0,0,0,0,1,3
+U00296,F,49,Getxo,1,1,0,0,1,1,4
+U00297,F,58,Barakaldo,0,0,0,0,0,1,2
+U00298,M,60,Donostia-San Sebastián,0,0,0,0,0,1,3
+U00299,M,46,Irun,0,0,0,0,0,1,3
+U00300,F,49,Zarautz,1,1,1,1,1,1,4
+U00301,F,46,Zarautz,0,0,0,0,0,0,3
+U00302,F,59,Santurtzi,1,1,0,1,1,1,4
+U00303,M,58,Donostia-San Sebastián,1,1,1,1,0,0,4
+U00304,F,56,Bermeo,1,1,1,1,1,1,5
+U00305,F,26,Bilbao,0,0,0,0,0,0,2
+U00306,M,55,Bilbao,1,1,0,1,1,1,4
+U00307,F,48,Errenteria,1,0,0,1,1,0,3
+U00308,M,49,Errenteria,1,1,1,1,1,1,4
+U00309,M,64,Donostia-San Sebastián,1,1,1,0,1,0,4
+U00310,F,61,Errenteria,1,1,1,1,1,1,5
+U00311,M,48,Vitoria-Gasteiz,0,0,0,0,0,0,2
+U00312,F,56,Getxo,1,1,0,0,0,0,3
+U00313,M,55,Bilbao,1,1,0,1,1,1,4
+U00314,M,64,Vitoria-Gasteiz,1,0,1,1,1,0,4
+U00315,M,56,Bilbao,0,0,0,0,0,1,3
+U00316,F,58,Donostia-San Sebastián,1,1,1,1,1,1,5
+U00317,M,61,Vitoria-Gasteiz,1,0,1,0,1,1,4
+U00318,M,65,Donostia-San Sebastián,1,1,0,1,1,1,4
+U00319,M,45,Llodio,0,0,0,0,0,1,4
+U00320,M,60,Hernani,1,0,1,1,0,1,4
+U00321,M,50,Azpeitia,0,0,0,0,0,0,2
+U00322,M,26,Donostia-San Sebastián,0,0,0,0,0,0,3
+U00323,M,62,Bilbao,1,1,1,1,1,1,3
+U00324,F,48,Vitoria-Gasteiz,1,1,1,1,1,1,4
+U00325,F,55,Leioa,0,0,0,0,0,1,3
+U00326,F,54,Durango,1,1,0,1,0,0,4
+U00327,F,65,Donostia-San Sebastián,1,1,1,1,0,1,4
+U00328,F,54,Basauri,1,1,0,0,1,1,3
+U00329,M,48,Bilbao,1,1,1,1,0,1,4
+U00330,M,45,Vitoria-Gasteiz,1,0,0,0,0,0,3
+U00331,M,59,Vitoria-Gasteiz,1,1,0,0,1,1,4
+U00332,M,39,Bilbao,0,0,0,0,0,1,3
+U00333,M,66,Tolosa,1,1,1,1,1,0,4
+U00334,F,49,Bilbao,0,0,0,0,0,1,3
+U00335,F,60,Irun,0,0,0,0,0,0,3
+U00336,F,75,Santurtzi,1,1,1,1,1,1,4
+U00337,F,52,Donostia-San Sebastián,1,1,0,1,0,1,4
+U00338,F,52,Basauri,1,0,0,1,1,1,4
+U00339,M,59,Hernani,1,1,0,0,0,1,3
+U00340,M,60,Barakaldo,1,1,0,1,0,1,3
+U00341,M,25,Amurrio,1,0,1,1,1,1,4
+U00342,F,64,Donostia-San Sebastián,1,0,0,1,0,1,3
+U00343,M,55,Eibar,1,1,0,1,0,1,4
+U00344,M,45,Santurtzi,1,1,1,1,0,1,4
+U00345,F,27,Donostia-San Sebastián,1,0,1,0,0,0,4
+U00346,M,59,Getxo,1,0,1,0,0,1,4
+U00347,M,46,Donostia-San Sebastián,1,1,1,1,1,1,4
+U00348,F,54,Azpeitia,1,1,0,1,1,1,4
+U00349,M,45,Bilbao,1,0,0,0,1,0,3
+U00350,F,73,Vitoria-Gasteiz,1,1,0,1,1,1,4
+U00351,M,63,Donostia-San Sebastián,1,1,0,1,1,1,4
+U00352,F,48,Durango,1,1,0,0,0,0,3
+U00353,M,51,Donostia-San Sebastián,1,1,1,1,1,1,5
+U00354,M,35,Azpeitia,1,1,0,1,1,0,4
+U00355,M,60,Barakaldo,0,0,0,0,0,1,2
+U00356,F,57,Leioa,1,0,1,1,0,1,4
+U00357,M,53,Errenteria,1,1,0,0,1,0,3
+U00358,M,58,Portugalete,1,1,0,0,1,0,4
+U00359,F,53,Bilbao,1,1,0,1,1,1,4
+U00360,F,55,Irun,1,0,0,1,1,1,4
+U00361,M,57,Eibar,1,0,0,1,1,1,4
+U00362,F,53,Leioa,1,1,0,1,1,1,4
+U00363,F,61,Leioa,1,1,1,1,1,1,4
+U00364,F,48,Leioa,1,1,0,1,1,1,4
+U00365,M,38,Bilbao,1,0,1,0,1,1,3
+U00366,F,57,Basauri,0,0,0,0,0,1,2
+U00367,M,49,Donostia-San Sebastián,1,1,0,1,0,1,4
+U00368,M,60,Donostia-San Sebastián,1,1,1,1,0,1,4
+U00369,F,45,Barakaldo,0,0,0,0,0,1,3
+U00370,M,51,Irun,0,0,0,0,0,1,3
+U00371,F,61,Bilbao,1,0,1,1,0,1,4
+U00372,M,58,Bilbao,1,1,0,0,1,1,3
+U00373,M,53,Bilbao,1,0,0,1,0,1,3
+U00374,M,62,Bilbao,1,1,1,1,1,1,5
+U00375,M,60,Portugalete,0,0,0,0,0,1,3
+U00376,M,54,Donostia-San Sebastián,1,0,0,1,1,1,4
+U00377,F,63,Bilbao,1,1,1,1,1,1,5
+U00378,F,61,Vitoria-Gasteiz,1,0,1,1,1,1,5
+U00379,M,56,Durango,0,0,0,0,0,1,3
+U00380,M,57,Irun,1,1,1,1,1,0,4
+U00381,F,63,Bermeo,1,1,1,1,1,1,4
+U00382,F,46,Amurrio,1,0,0,1,1,0,3
+U00383,F,49,Llodio,0,0,0,0,0,0,2
+U00384,M,52,Bilbao,1,1,1,0,1,1,4
+U00385,F,47,Portugalete,1,1,1,1,1,1,5
+U00386,F,57,Bilbao,1,1,1,1,1,1,4
+U00387,F,43,Basauri,1,0,1,1,0,1,4
+U00388,F,59,Tolosa,1,1,1,0,1,1,4
+U00389,F,33,Eibar,1,1,1,1,1,1,4
+U00390,F,60,Bilbao,1,0,1,0,1,1,4
+U00391,M,56,Eibar,0,0,0,0,0,1,3
+U00392,M,65,Bilbao,1,1,1,1,1,1,4
+U00393,M,59,Bermeo,0,0,0,0,0,1,3
+U00394,F,53,Hernani,1,1,1,1,1,1,4
+U00395,M,64,Beasain,0,0,0,0,0,0,2
+U00396,F,65,Beasain,1,0,1,1,1,1,4
+U00397,M,54,Vitoria-Gasteiz,0,0,0,0,0,1,3
+U00398,M,58,Azpeitia,1,1,1,1,0,1,5
+U00399,M,52,Bilbao,1,1,0,1,1,1,4
+U00400,M,50,Durango,1,0,0,0,0,1,3
+U00401,F,59,Leioa,0,0,0,0,0,1,4
+U00402,M,62,Bilbao,0,0,0,0,0,1,3
+U00403,M,61,Vitoria-Gasteiz,1,1,1,1,1,1,4
+U00404,F,72,Tolosa,0,0,0,0,0,1,3
+U00405,F,59,Barakaldo,0,0,0,0,0,1,3
+U00406,M,52,Leioa,1,1,0,0,0,1,4
+U00407,M,59,Hernani,0,0,0,0,0,0,3
+U00408,M,72,Bilbao,1,1,1,0,0,0,3
+U00409,F,56,Donostia-San Sebastián,1,0,0,0,0,1,2
+U00410,M,64,Vitoria-Gasteiz,1,1,0,1,0,1,4
+U00411,F,64,Bilbao,1,1,1,1,0,1,4
+U00412,M,57,Vitoria-Gasteiz,0,0,0,0,0,1,3
+U00413,M,37,Getxo,0,0,0,0,0,1,3
+U00414,F,61,Basauri,1,0,0,1,1,1,3
+U00415,F,48,Basauri,1,1,1,0,1,1,4
+U00416,F,59,Bilbao,1,1,0,1,0,0,4
+U00417,M,55,Bilbao,0,0,0,0,0,1,3
+U00418,F,61,Donostia-San Sebastián,1,1,0,1,1,1,4
+U00419,F,54,Vitoria-Gasteiz,1,1,1,0,1,1,4
+U00420,M,47,Donostia-San Sebastián,1,0,0,0,0,1,3
+U00421,M,49,Errenteria,1,1,0,1,1,0,4
+U00422,F,44,Salvatierra,1,1,1,1,1,1,4
+U00423,F,66,Barakaldo,1,1,1,1,0,1,4
+U00424,M,45,Barakaldo,1,0,1,0,0,1,4
+U00425,F,65,Eibar,0,0,0,0,0,1,3
+U00426,F,47,Getxo,1,1,1,1,1,1,5
+U00427,F,59,Portugalete,1,1,0,0,0,1,3
+U00428,F,54,Donostia-San Sebastián,1,1,1,0,0,1,4
+U00429,F,62,Getxo,0,0,0,0,0,1,3
+U00430,M,48,Getxo,0,0,0,0,0,1,3
+U00431,F,65,Barakaldo,1,0,0,1,1,0,3
+U00432,F,58,Irun,0,0,0,0,0,1,2
+U00433,M,45,Vitoria-Gasteiz,1,1,1,0,0,1,3
+U00434,F,62,Zarautz,1,1,0,1,1,1,4
+U00435,M,49,Irun,1,1,1,1,0,0,4
+U00436,M,63,Azpeitia,1,1,0,1,0,1,4
+U00437,F,65,Zarautz,1,1,1,1,1,1,5
+U00438,M,55,Donostia-San Sebastián,1,1,0,1,1,1,3
+U00439,F,61,Basauri,1,1,1,1,1,0,4
+U00440,F,48,Barakaldo,0,0,0,0,0,1,3
+U00441,F,62,Getxo,0,0,0,0,0,1,3
+U00442,M,60,Irun,1,1,0,0,0,1,4
+U00443,F,45,Leioa,1,1,1,0,0,1,4
+U00444,F,71,Leioa,1,1,0,0,0,0,3
+U00445,M,57,Errenteria,1,1,1,1,1,1,4
+U00446,F,46,Errenteria,1,1,0,1,0,1,4
+U00447,M,61,Donostia-San Sebastián,1,0,0,1,0,1,3
+U00448,M,50,Leioa,1,1,1,1,1,1,5
+U00449,M,27,Errenteria,0,0,0,0,0,1,3
+U00450,F,60,Portugalete,1,1,1,1,1,1,4
+U00451,F,59,Portugalete,1,1,0,1,1,1,4
+U00452,M,49,Beasain,1,0,0,1,1,0,4
+U00453,F,60,Amurrio,1,0,1,1,0,1,4
+U00454,F,65,Portugalete,1,1,0,0,0,0,2
+U00455,F,49,Basauri,1,1,1,0,1,1,4
+U00456,M,65,Tolosa,0,0,0,0,0,1,3
+U00457,M,59,Portugalete,1,1,0,1,1,1,4
+U00458,M,61,Barakaldo,1,1,0,1,1,1,4
+U00459,M,50,Hernani,0,0,0,0,0,1,3
+U00460,M,60,Bilbao,1,1,1,1,1,1,4
+U00461,M,45,Basauri,0,0,0,0,0,0,2
+U00462,F,54,Leioa,1,1,0,1,0,1,4
+U00463,M,38,Bilbao,0,0,0,0,0,1,3
+U00464,M,65,Getxo,1,0,1,1,1,1,5
+U00465,F,51,Getxo,0,0,0,0,0,0,3
+U00466,F,56,Getxo,1,1,1,0,1,0,3
+U00467,F,55,Durango,1,0,0,1,1,1,4
+U00468,F,46,Bilbao,1,0,1,0,0,1,4
+U00469,M,59,Durango,1,1,1,0,0,0,4
+U00470,F,46,Bilbao,0,0,0,0,0,1,3
+U00471,M,65,Santurtzi,1,1,0,0,1,1,4
+U00472,M,57,Bilbao,1,1,1,0,1,1,4
+U00473,F,45,Barakaldo,0,0,0,0,0,1,3
+U00474,M,54,Eibar,0,0,0,0,0,0,3
+U00475,F,52,Getxo,1,1,0,1,1,0,4
+U00476,F,65,Vitoria-Gasteiz,0,0,0,0,0,1,4
+U00477,M,48,Bilbao,1,1,1,1,1,1,5
+U00478,M,48,Portugalete,1,1,1,1,1,1,4
+U00479,F,54,Basauri,1,1,1,0,1,0,4
+U00480,M,63,Irun,1,1,1,0,1,1,4
+U00481,F,53,Beasain,1,1,0,1,1,1,4
+U00482,M,50,Durango,0,0,0,0,0,0,3
+U00483,M,57,Irun,1,0,0,1,1,1,4
+U00484,M,57,Vitoria-Gasteiz,1,0,0,1,1,1,3
+U00485,M,61,Bilbao,0,0,0,0,0,1,3
+U00486,M,50,Vitoria-Gasteiz,0,0,0,0,0,1,3
+U00487,F,63,Barakaldo,1,1,1,1,0,0,4
+U00488,F,48,Durango,0,0,0,0,0,1,3
+U00489,M,58,Bilbao,0,0,0,0,0,1,3
+U00490,M,47,Basauri,1,1,0,1,1,1,4
+U00491,M,42,Barakaldo,1,0,0,1,0,1,3
+U00492,F,39,Eibar,1,1,0,0,0,1,4
+U00493,F,62,Vitoria-Gasteiz,1,1,0,1,1,1,4
+U00494,M,45,Zarautz,0,0,0,0,0,0,2
+U00495,M,51,Getxo,1,0,1,0,1,1,3
+U00496,F,69,Tolosa,1,1,0,1,1,0,3
+U00497,F,55,Eibar,1,1,0,1,1,1,4
+U00498,M,65,Donostia-San Sebastián,1,1,0,0,1,1,4
+U00499,M,50,Donostia-San Sebastián,1,0,1,1,1,1,5
+U00500,F,42,Bilbao,1,0,0,1,0,0,3
+U00501,M,72,Irun,1,1,1,1,1,0,5
+U00502,M,60,Bilbao,0,0,0,0,0,1,3
+U00503,F,51,Tolosa,1,1,1,1,0,1,4
+U00504,M,65,Bermeo,1,1,0,1,1,0,4
+U00505,F,64,Getxo,1,0,1,1,1,1,3
+U00506,M,52,Basauri,0,0,0,0,0,1,3
+U00507,F,56,Santurtzi,1,0,1,1,1,0,4
+U00508,F,45,Vitoria-Gasteiz,0,0,0,0,0,1,3
+U00509,M,59,Errenteria,1,1,0,0,0,0,3
+U00510,F,60,Vitoria-Gasteiz,1,1,0,0,1,1,3
+U00511,M,57,Bilbao,0,0,0,0,0,1,3
+U00512,M,51,Donostia-San Sebastián,0,0,0,0,0,1,3
+U00513,F,63,Barakaldo,1,1,0,1,1,1,5
+U00514,F,30,Bilbao,0,0,0,0,0,1,3
+U00515,M,50,Donostia-San Sebastián,0,0,0,0,0,1,4
+U00516,F,62,Bermeo,1,0,1,1,0,0,3
+U00517,M,71,Irun,1,1,0,1,0,1,5
+U00518,F,57,Durango,1,0,1,1,1,1,4
+U00519,F,64,Bilbao,1,0,0,1,0,1,3
+U00520,M,53,Donostia-San Sebastián,0,0,0,0,0,0,2
+U00521,F,64,Donostia-San Sebastián,1,1,1,1,1,1,4
+U00522,F,63,Errenteria,0,0,0,0,0,1,3
+U00523,M,47,Donostia-San Sebastián,1,0,1,1,1,1,4
+U00524,M,49,Donostia-San Sebastián,0,0,0,0,0,1,3
+U00525,M,65,Getxo,1,1,1,0,0,1,4
+U00526,M,46,Irun,1,1,1,1,0,1,4
+U00527,M,58,Durango,1,1,0,1,1,1,5
+U00528,F,60,Errenteria,1,0,1,1,1,1,5
+U00529,M,65,Vitoria-Gasteiz,1,1,0,1,1,1,5
+U00530,M,53,Vitoria-Gasteiz,1,1,0,1,0,1,4
+U00531,F,60,Leioa,0,0,0,0,0,1,3
+U00532,F,63,Barakaldo,1,1,0,1,0,1,3
+U00533,M,55,Portugalete,1,1,0,0,1,0,3
+U00534,F,47,Portugalete,1,1,1,1,0,1,4
+U00535,F,45,Leioa,0,0,0,0,0,1,3
+U00536,F,75,Leioa,1,1,1,0,1,1,4
+U00537,M,63,Donostia-San Sebastián,0,0,0,0,0,1,3
+U00538,F,69,Vitoria-Gasteiz,1,0,1,1,0,0,4
+U00539,M,64,Bilbao,1,0,0,1,1,1,4
+U00540,F,59,Bilbao,1,1,0,1,1,1,4
+U00541,M,38,Irun,1,0,0,0,0,0,3
+U00542,M,47,Donostia-San Sebastián,1,0,1,1,0,1,4
+U00543,F,65,Irun,1,1,1,1,0,1,4
+U00544,F,51,Donostia-San Sebastián,1,1,0,0,1,1,4
+U00545,F,59,Santurtzi,0,0,0,0,0,1,3
+U00546,F,56,Bilbao,1,1,1,0,1,1,4
+U00547,M,42,Donostia-San Sebastián,1,1,1,0,1,1,5
+U00548,M,57,Barakaldo,1,1,0,1,0,1,4
+U00549,M,59,Vitoria-Gasteiz,1,0,0,0,0,1,4
+U00550,M,57,Barakaldo,1,0,0,1,0,0,2
+U00551,M,52,Santurtzi,1,1,1,0,1,0,4
+U00552,M,49,Bermeo,1,1,0,1,1,1,4
+U00553,F,58,Donostia-San Sebastián,1,1,0,0,1,1,3
+U00554,F,49,Bilbao,1,1,0,1,1,1,5
+U00555,M,60,Bilbao,1,1,0,0,1,1,3
+U00556,M,46,Bilbao,1,0,0,1,0,0,3
+U00557,M,53,Irun,1,1,0,0,1,0,4
+U00558,F,48,Donostia-San Sebastián,1,0,0,1,0,0,4
+U00559,F,59,Vitoria-Gasteiz,0,0,0,0,0,1,3
+U00560,F,60,Irun,1,1,1,1,1,1,4
+U00561,M,57,Vitoria-Gasteiz,0,0,0,0,0,1,3
+U00562,M,46,Vitoria-Gasteiz,1,0,0,1,0,0,3
+U00563,F,43,Amurrio,0,0,0,0,0,0,3
+U00564,M,53,Hernani,1,1,0,1,1,1,4
+U00565,F,63,Portugalete,1,0,0,1,1,1,4
+U00566,F,52,Portugalete,1,1,0,1,1,0,4
+U00567,F,47,Vitoria-Gasteiz,1,0,1,1,0,0,3
+U00568,M,56,Eibar,1,0,0,1,1,1,4
+U00569,F,70,Azpeitia,0,0,0,0,0,1,3
+U00570,F,38,Bilbao,1,1,0,1,0,1,4
+U00571,M,51,Bilbao,1,0,1,1,1,1,4
+U00572,M,57,Bilbao,1,0,0,1,1,1,4
+U00573,M,65,Hernani,1,0,1,1,1,0,4
+U00574,F,35,Donostia-San Sebastián,0,0,0,0,0,0,2
+U00575,M,56,Vitoria-Gasteiz,1,0,0,1,0,1,3
+U00576,M,43,Leioa,0,0,0,0,0,1,3
+U00577,M,37,Bilbao,1,0,1,0,0,1,4
+U00578,M,59,Irun,1,0,0,0,0,1,3
+U00579,M,61,Basauri,1,1,1,0,1,1,5
+U00580,F,53,Bilbao,0,0,0,0,0,1,4
+U00581,F,70,Amurrio,0,0,0,0,0,1,2
+U00582,M,54,Bilbao,1,1,0,0,0,0,3
+U00583,M,45,Barakaldo,1,1,1,0,1,1,4
+U00584,F,50,Irun,1,1,1,1,1,1,5
+U00585,F,53,Santurtzi,1,1,0,1,0,0,3
+U00586,F,55,Donostia-San Sebastián,1,0,0,0,0,0,3
+U00587,M,59,Errenteria,1,1,1,1,1,1,4
+U00588,F,67,Basauri,1,1,0,1,0,1,4
+U00589,M,55,Vitoria-Gasteiz,0,0,0,0,0,1,3
+U00590,M,52,Tolosa,1,0,1,0,1,1,3
+U00591,F,50,Portugalete,1,1,1,1,1,1,5
+U00592,M,59,Tolosa,1,1,0,1,1,1,4
+U00593,F,53,Zarautz,1,1,1,1,1,1,5
+U00594,F,36,Amurrio,1,1,0,1,1,1,4
+U00595,F,45,Donostia-San Sebastián,1,1,1,0,1,1,5
+U00596,F,48,Bilbao,1,1,1,1,1,0,4
+U00597,F,64,Donostia-San Sebastián,1,0,0,1,1,1,3
+U00598,M,58,Getxo,0,0,0,0,0,0,3
+U00599,M,64,Getxo,1,1,0,0,1,1,4
+U00600,F,59,Salvatierra,1,0,1,1,0,1,4
+U00601,M,53,Amurrio,1,1,0,0,0,1,3
+U00602,M,52,Llodio,1,1,1,1,1,1,5
+U00603,M,54,Llodio,0,0,0,0,0,0,3
+U00604,M,57,Vitoria-Gasteiz,0,0,0,0,0,0,2
+U00605,F,56,Hernani,1,1,1,1,1,1,4
+U00606,F,47,Bilbao,1,1,0,1,1,1,4
+U00607,F,62,Bilbao,1,1,1,1,1,1,4
+U00608,M,50,Santurtzi,0,0,0,0,0,1,4
+U00609,M,65,Donostia-San Sebastián,1,1,0,1,1,1,4
+U00610,M,64,Irun,1,0,1,0,0,0,3
+U00611,F,38,Llodio,1,1,1,1,0,1,4
+U00612,M,73,Bilbao,1,1,0,1,1,1,4
+U00613,F,64,Amurrio,1,1,0,1,1,1,4
+U00614,M,55,Donostia-San Sebastián,1,1,0,1,1,1,4
+U00615,M,56,Bilbao,1,1,1,1,1,1,5
+U00616,F,65,Errenteria,1,1,0,1,1,1,4
+U00617,M,58,Leioa,0,0,0,0,0,1,3
+U00618,M,58,Bilbao,1,0,0,1,1,1,3
+U00619,F,46,Amurrio,0,0,0,0,0,0,3
+U00620,M,46,Bilbao,1,1,0,1,0,1,4
+U00621,F,54,Llodio,1,1,1,0,1,1,4
+U00622,M,51,Bilbao,1,1,0,0,1,0,2
+U00623,F,30,Donostia-San Sebastián,0,0,0,0,0,0,2
+U00624,F,54,Durango,0,0,0,0,0,1,3
+U00625,M,61,Bilbao,1,1,1,0,1,1,4
+U00626,M,59,Bilbao,1,1,0,1,1,0,3
+U00627,F,65,Vitoria-Gasteiz,1,1,0,0,0,1,4
+U00628,F,46,Barakaldo,1,1,0,1,1,1,4
+U00629,F,74,Donostia-San Sebastián,1,1,1,1,1,1,5
+U00630,F,29,Bilbao,1,1,1,1,1,1,5
+U00631,F,30,Durango,1,0,1,1,1,0,4
+U00632,M,65,Irun,1,1,0,1,1,0,4
+U00633,F,65,Getxo,1,1,1,1,1,1,5
+U00634,M,47,Donostia-San Sebastián,1,1,1,1,0,1,4
+U00635,F,62,Vitoria-Gasteiz,0,0,0,0,0,1,3
+U00636,F,46,Eibar,0,0,0,0,0,1,3
+U00637,F,59,Eibar,1,1,1,1,0,1,4
+U00638,M,60,Leioa,0,0,0,0,0,1,3
+U00639,F,57,Vitoria-Gasteiz,1,1,1,0,1,1,4
+U00640,F,64,Tolosa,0,0,0,0,0,1,3
+U00641,M,61,Donostia-San Sebastián,1,1,0,1,1,1,4
+U00642,M,38,Leioa,1,1,1,1,1,1,4
+U00643,F,64,Getxo,1,0,0,1,1,1,3
+U00644,M,65,Basauri,1,1,0,1,1,1,5
+U00645,F,61,Errenteria,0,0,0,0,0,1,3
+U00646,M,48,Barakaldo,0,0,0,0,0,1,3
+U00647,F,58,Vitoria-Gasteiz,1,1,0,1,0,0,3
+U00648,M,46,Azpeitia,1,1,0,0,1,0,3
+U00649,M,61,Bilbao,1,1,1,1,1,1,4
+U00650,F,68,Bilbao,1,0,1,1,1,1,4
+U00651,F,52,Tolosa,1,0,1,1,0,1,4
+U00652,F,64,Barakaldo,1,1,1,1,1,1,4
+U00653,F,62,Santurtzi,0,0,0,0,0,1,3
+U00654,F,47,Basauri,1,1,0,1,0,1,4
+U00655,M,48,Bilbao,0,0,0,0,0,1,3
+U00656,M,62,Bilbao,0,0,0,0,0,1,3
+U00657,F,65,Donostia-San Sebastián,0,0,0,0,0,0,3
+U00658,M,64,Donostia-San Sebastián,0,0,0,0,0,1,2
+U00659,F,65,Donostia-San Sebastián,1,1,1,1,0,1,3
+U00660,F,60,Vitoria-Gasteiz,1,1,1,1,1,1,4
+U00661,F,63,Zarautz,0,0,0,0,0,1,3
+U00662,F,52,Beasain,0,0,0,0,0,1,3
+U00663,F,52,Irun,1,1,1,1,0,1,4
+U00664,M,53,Durango,0,0,0,0,0,1,3
+U00665,F,58,Bilbao,1,0,0,1,0,1,4
+U00666,F,60,Eibar,1,0,0,0,1,0,2
+U00667,F,55,Vitoria-Gasteiz,0,0,0,0,0,1,3
+U00668,M,60,Donostia-San Sebastián,0,0,0,0,0,1,2
+U00669,F,43,Barakaldo,1,1,0,1,0,1,4
+U00670,F,53,Vitoria-Gasteiz,0,0,0,0,0,1,3
+U00671,F,51,Donostia-San Sebastián,1,1,0,1,0,1,4
+U00672,F,55,Bilbao,1,1,0,0,1,1,4
+U00673,F,60,Llodio,1,1,0,1,1,0,4
+U00674,M,64,Barakaldo,1,1,1,1,1,1,4
+U00675,M,46,Basauri,1,1,1,0,1,0,4
+U00676,M,55,Azpeitia,0,0,0,0,0,0,2
+U00677,F,46,Zarautz,1,1,1,1,1,1,5
+U00678,F,52,Hernani,1,0,0,1,1,1,4
+U00679,F,54,Donostia-San Sebastián,1,0,0,1,1,1,4
+U00680,F,59,Vitoria-Gasteiz,1,1,1,0,1,0,4
+U00681,F,57,Salvatierra,1,1,1,1,1,1,5
+U00682,M,54,Leioa,1,1,1,1,0,1,4
+U00683,M,54,Donostia-San Sebastián,1,0,0,1,1,0,3
+U00684,F,59,Bermeo,1,0,0,1,1,1,4
+U00685,F,48,Errenteria,1,1,0,0,0,0,3
+U00686,M,64,Leioa,1,0,1,1,0,1,4
+U00687,F,64,Beasain,1,1,0,1,1,1,4
+U00688,M,38,Irun,0,0,0,0,0,1,3
+U00689,F,47,Zarautz,1,1,1,1,0,1,4
+U00690,F,51,Irun,1,1,1,0,1,1,4
+U00691,F,57,Vitoria-Gasteiz,1,1,1,0,1,1,4
+U00692,M,61,Vitoria-Gasteiz,1,1,1,0,0,1,4
+U00693,F,57,Donostia-San Sebastián,1,1,0,1,0,1,3
+U00694,F,62,Bilbao,1,0,1,1,1,1,4
+U00695,F,55,Portugalete,1,1,0,1,0,0,4
+U00696,M,49,Hernani,0,0,0,0,0,1,3
+U00697,F,63,Errenteria,1,1,0,1,1,1,4
+U00698,F,53,Donostia-San Sebastián,1,0,1,0,1,1,4
+U00699,F,57,Bilbao,1,1,0,1,0,1,4
+U00700,F,59,Bilbao,1,0,0,1,1,0,2
+U00701,M,65,Barakaldo,1,1,1,1,1,1,5
+U00702,F,60,Donostia-San Sebastián,1,0,0,1,1,1,4
+U00703,F,70,Azpeitia,1,1,0,0,1,0,4
+U00704,F,51,Bilbao,1,1,0,1,0,1,3
+U00705,F,65,Eibar,1,1,1,0,1,1,4
+U00706,F,62,Bilbao,1,0,1,1,0,1,4
+U00707,M,73,Vitoria-Gasteiz,1,0,0,1,0,1,4
+U00708,F,52,Vitoria-Gasteiz,1,1,1,1,1,1,5
+U00709,F,58,Zarautz,1,1,1,0,1,1,4
+U00710,M,64,Irun,1,1,1,1,0,0,3
+U00711,F,55,Leioa,1,0,0,1,1,1,4
+U00712,F,56,Barakaldo,0,0,0,0,0,1,2
+U00713,M,46,Irun,1,1,1,1,0,1,4
+U00714,M,62,Getxo,1,0,0,1,1,1,4
+U00715,F,49,Barakaldo,0,0,0,0,0,0,3
+U00716,M,73,Bilbao,0,0,0,0,0,1,3
+U00717,F,60,Donostia-San Sebastián,1,1,1,1,0,0,4
+U00718,F,53,Irun,1,1,1,1,1,1,4
+U00719,M,57,Bilbao,1,1,0,1,1,1,4
+U00720,F,60,Irun,1,1,0,1,0,1,4
+U00721,F,59,Santurtzi,1,1,1,1,0,1,4
+U00722,F,46,Barakaldo,1,1,0,1,0,1,5
+U00723,F,48,Durango,1,1,1,0,1,0,3
+U00724,F,64,Vitoria-Gasteiz,1,1,0,1,0,1,4
+U00725,F,59,Vitoria-Gasteiz,1,0,0,1,0,0,3
+U00726,F,55,Tolosa,1,1,1,1,0,0,4
+U00727,F,57,Durango,1,1,1,1,0,1,4
+U00728,M,64,Vitoria-Gasteiz,1,0,1,0,1,1,4
+U00729,F,61,Bilbao,1,0,1,1,1,1,5
+U00730,F,57,Irun,1,0,1,1,0,1,4
+U00731,M,48,Donostia-San Sebastián,1,1,1,1,1,1,5
+U00732,M,48,Irun,1,0,0,0,1,1,3
+U00733,M,25,Bilbao,1,1,1,0,1,0,4
+U00734,M,50,Zarautz,0,0,0,0,0,1,3
+U00735,M,63,Bilbao,1,1,1,1,1,1,4
+U00736,F,47,Vitoria-Gasteiz,1,0,0,1,0,1,3
+U00737,F,65,Barakaldo,1,1,1,1,0,1,4
+U00738,M,58,Portugalete,1,1,1,0,1,0,5
+U00739,F,64,Azpeitia,1,1,0,1,1,1,5
+U00740,M,58,Donostia-San Sebastián,1,0,1,0,1,0,2
+U00741,M,53,Basauri,1,0,1,0,1,1,3
+U00742,F,55,Bilbao,1,1,0,0,0,1,3
+U00743,F,61,Durango,1,1,1,1,0,1,4
+U00744,F,54,Vitoria-Gasteiz,1,1,0,1,1,1,5
+U00745,F,54,Durango,1,1,0,1,0,1,3
+U00746,M,54,Errenteria,1,1,0,1,1,1,4
+U00747,M,52,Bilbao,1,0,1,0,0,1,3
+U00748,F,63,Donostia-San Sebastián,1,1,0,0,1,0,4
+U00749,F,59,Bilbao,1,1,0,0,0,1,3
+U00750,F,57,Barakaldo,1,0,0,1,1,1,3
+U00751,F,57,Santurtzi,0,0,0,0,0,0,2
+U00752,F,59,Barakaldo,0,0,0,0,0,0,2
+U00753,F,60,Basauri,1,1,1,1,1,1,4
+U00754,M,72,Donostia-San Sebastián,1,1,0,1,0,0,3
+U00755,F,58,Bilbao,0,0,0,0,0,1,2
+U00756,F,46,Donostia-San Sebastián,0,0,0,0,0,1,3
+U00757,F,61,Irun,1,0,1,1,1,1,4
+U00758,M,56,Santurtzi,1,1,1,1,1,1,4
+U00759,M,49,Llodio,0,0,0,0,0,1,4
+U00760,F,51,Barakaldo,1,0,1,1,0,1,4
+U00761,F,53,Zarautz,0,0,0,0,0,1,3
+U00762,M,63,Donostia-San Sebastián,1,1,1,0,1,1,4
+U00763,M,57,Bilbao,1,1,1,1,1,0,4
+U00764,M,61,Barakaldo,1,1,0,1,1,1,4
+U00765,F,40,Eibar,0,0,0,0,0,1,3
+U00766,F,61,Barakaldo,1,1,0,1,0,1,4
+U00767,F,48,Donostia-San Sebastián,1,1,1,1,0,1,5
+U00768,F,53,Vitoria-Gasteiz,1,1,1,1,1,1,4
+U00769,M,56,Vitoria-Gasteiz,1,1,0,1,1,1,4
+U00770,F,62,Barakaldo,1,1,0,1,0,1,4
+U00771,M,50,Barakaldo,0,0,0,0,0,1,3
+U00772,F,45,Vitoria-Gasteiz,0,0,0,0,0,1,3
+U00773,M,52,Barakaldo,1,1,0,0,0,1,3
+U00774,M,50,Bilbao,1,0,0,1,0,1,4
+U00775,F,54,Basauri,0,0,0,0,0,1,2
+U00776,F,53,Beasain,1,1,0,0,1,1,4
+U00777,M,60,Irun,1,1,0,1,1,1,5
+U00778,M,54,Portugalete,0,0,0,0,0,1,3
+U00779,M,55,Vitoria-Gasteiz,0,0,0,0,0,1,4
+U00780,F,45,Donostia-San Sebastián,0,0,0,0,0,1,3
+U00781,F,48,Errenteria,1,1,1,0,1,0,3
+U00782,F,50,Beasain,1,1,1,1,0,1,4
+U00783,M,57,Vitoria-Gasteiz,1,0,0,1,1,1,4
+U00784,M,55,Bilbao,1,1,1,0,1,1,4
+U00785,M,47,Donostia-San Sebastián,1,1,0,0,1,1,4
+U00786,M,63,Durango,0,0,0,0,0,1,3
+U00787,M,59,Zarautz,1,1,1,0,0,0,4
+U00788,M,52,Llodio,0,0,0,0,0,0,3
+U00789,M,61,Llodio,1,1,1,1,1,1,4
+U00790,M,51,Vitoria-Gasteiz,1,0,1,0,0,1,3
+U00791,F,58,Donostia-San Sebastián,1,1,0,1,1,0,4
+U00792,F,45,Leioa,0,0,0,0,0,1,3
+U00793,F,46,Bilbao,0,0,0,0,0,1,3
+U00794,M,55,Donostia-San Sebastián,1,1,0,0,1,0,4
+U00795,F,55,Vitoria-Gasteiz,1,1,1,1,0,1,3
+U00796,F,58,Barakaldo,1,0,1,1,0,1,4
+U00797,F,65,Durango,1,1,0,1,1,1,4
+U00798,F,58,Barakaldo,1,1,1,1,0,1,4
+U00799,M,36,Bilbao,0,0,0,0,0,0,3
+U00800,M,56,Vitoria-Gasteiz,1,1,0,1,0,1,4
+U00801,M,50,Amurrio,1,0,0,1,1,1,4
+U00802,M,62,Bilbao,1,1,0,0,0,0,3
+U00803,M,60,Durango,1,1,0,1,1,1,4
+U00804,F,65,Errenteria,1,1,1,1,1,1,4
+U00805,M,61,Bilbao,1,1,0,0,0,1,4
+U00806,F,61,Bilbao,1,0,0,1,0,0,4
+U00807,F,60,Amurrio,1,1,1,1,1,1,5
+U00808,F,59,Barakaldo,0,0,0,0,0,0,3
+U00809,F,55,Eibar,1,1,1,1,1,1,5
+U00810,F,54,Salvatierra,1,1,0,1,1,1,4
+U00811,M,49,Irun,0,0,0,0,0,1,3
+U00812,F,65,Donostia-San Sebastián,1,1,0,1,0,1,5
+U00813,M,57,Leioa,1,1,1,1,1,1,5
+U00814,F,47,Vitoria-Gasteiz,1,0,1,1,0,0,3
+U00815,F,60,Vitoria-Gasteiz,1,1,1,1,1,1,4
+U00816,F,52,Portugalete,0,0,0,0,0,1,3
+U00817,M,59,Zarautz,1,0,0,0,1,1,3
+U00818,M,51,Donostia-San Sebastián,0,0,0,0,0,1,3
+U00819,F,51,Barakaldo,1,1,1,1,0,1,4
+U00820,M,55,Santurtzi,1,0,1,0,0,1,3
+U00821,F,46,Bilbao,1,0,1,1,1,0,4
+U00822,M,56,Vitoria-Gasteiz,1,1,0,0,1,1,4
+U00823,M,57,Basauri,1,0,1,1,0,1,5
+U00824,F,56,Azpeitia,1,1,1,1,1,1,5
+U00825,M,54,Donostia-San Sebastián,1,1,1,1,1,1,4
+U00826,M,61,Donostia-San Sebastián,0,0,0,0,0,1,3
+U00827,M,58,Irun,0,0,0,0,0,1,3
+U00828,F,47,Hernani,0,0,0,0,0,1,3
+U00829,F,57,Donostia-San Sebastián,1,1,0,1,1,1,4
+U00830,F,50,Vitoria-Gasteiz,1,1,0,1,1,1,4
+U00831,F,50,Vitoria-Gasteiz,1,1,1,1,1,1,4
+U00832,F,63,Vitoria-Gasteiz,1,0,0,1,1,1,4
+U00833,M,50,Vitoria-Gasteiz,1,1,0,1,1,1,4
+U00834,M,62,Bilbao,1,0,0,1,1,1,4
+U00835,M,56,Bilbao,0,0,0,0,0,1,3
+U00836,M,57,Bilbao,0,0,0,0,0,1,3
+U00837,F,55,Eibar,0,0,0,0,0,1,3
+U00838,F,57,Eibar,1,1,0,0,1,1,4
+U00839,F,49,Llodio,0,0,0,0,0,1,3
+U00840,F,55,Portugalete,0,0,0,0,0,1,3
+U00841,F,58,Zarautz,1,1,1,0,1,1,3
+U00842,F,61,Leioa,1,0,1,1,1,1,4
+U00843,F,54,Leioa,1,1,0,1,1,1,4
+U00844,M,46,Eibar,1,1,1,1,1,1,5
+U00845,F,48,Bilbao,1,1,0,1,0,1,4
+U00846,M,41,Hernani,1,1,0,1,1,1,4
+U00847,F,63,Barakaldo,1,1,0,1,0,1,4
+U00848,M,45,Vitoria-Gasteiz,0,0,0,0,0,0,3
+U00849,M,51,Errenteria,1,0,1,1,1,1,5
+U00850,F,51,Barakaldo,0,0,0,0,0,1,3
+U00851,M,55,Getxo,1,1,1,0,0,1,4
+U00852,F,53,Zarautz,0,0,0,0,0,0,3
+U00853,M,49,Basauri,1,0,0,1,0,1,4
+U00854,F,56,Irun,0,0,0,0,0,0,2
+U00855,F,71,Getxo,1,1,0,1,1,1,4
+U00856,F,57,Bilbao,1,0,1,0,1,1,4
+U00857,M,45,Santurtzi,1,0,1,1,1,0,3
+U00858,F,59,Vitoria-Gasteiz,0,0,0,0,0,0,3
+U00859,M,54,Durango,0,0,0,0,0,1,3
+U00860,F,65,Bilbao,1,1,1,0,1,1,4
+U00861,F,58,Durango,1,1,0,0,1,0,4
+U00862,M,63,Bermeo,1,1,0,1,1,1,5
+U00863,M,47,Bilbao,1,1,0,0,1,0,3
+U00864,M,60,Bilbao,1,1,1,1,1,1,5
+U00865,F,63,Bilbao,1,1,1,1,0,0,4
+U00866,F,60,Beasain,1,1,1,0,1,1,4
+U00867,F,53,Bilbao,1,0,0,1,0,0,3
+U00868,M,59,Donostia-San Sebastián,1,1,1,1,1,1,5
+U00869,M,65,Vitoria-Gasteiz,1,0,1,1,1,1,4
+U00870,F,58,Tolosa,1,1,1,1,1,1,4
+U00871,F,60,Eibar,1,1,1,0,1,1,4
+U00872,F,53,Getxo,1,1,0,0,1,1,4
+U00873,M,59,Errenteria,0,0,0,0,0,1,3
+U00874,F,63,Bermeo,0,0,0,0,0,1,3
+U00875,F,45,Donostia-San Sebastián,0,0,0,0,0,1,4
+U00876,F,47,Durango,1,0,0,0,1,0,3
+U00877,M,61,Getxo,1,1,0,0,0,1,3
+U00878,F,64,Barakaldo,1,0,1,1,1,1,4
+U00879,F,49,Irun,1,0,0,1,1,1,3
+U00880,M,60,Durango,1,0,0,0,0,1,3
+U00881,F,59,Bilbao,1,1,1,1,1,1,4
+U00882,M,45,Beasain,1,0,1,1,1,1,4
+U00883,F,56,Bilbao,1,1,0,1,1,1,4
+U00884,F,48,Donostia-San Sebastián,1,1,1,1,1,1,4
+U00885,M,53,Vitoria-Gasteiz,1,1,1,0,1,1,4
+U00886,M,46,Getxo,1,1,1,1,0,0,4
+U00887,F,52,Zarautz,1,1,0,1,1,1,4
+U00888,F,69,Eibar,1,1,1,1,1,1,4
+U00889,F,61,Bermeo,1,1,1,1,1,0,4
+U00890,M,57,Basauri,0,0,0,0,0,1,3
+U00891,F,61,Zarautz,0,0,0,0,0,0,2
+U00892,F,45,Basauri,1,1,0,1,1,0,4
+U00893,F,45,Santurtzi,1,1,1,1,1,0,4
+U00894,F,45,Portugalete,1,1,0,1,0,0,3
+U00895,F,63,Vitoria-Gasteiz,0,0,0,0,0,1,3
+U00896,F,44,Irun,1,1,1,1,0,1,4
+U00897,F,62,Basauri,0,0,0,0,0,1,3
+U00898,M,54,Irun,1,1,0,1,1,1,4
+U00899,F,47,Vitoria-Gasteiz,0,0,0,0,0,1,3
+U00900,F,45,Vitoria-Gasteiz,0,0,0,0,0,1,3
+U00901,F,65,Errenteria,1,1,1,1,1,1,5
+U00902,F,56,Donostia-San Sebastián,1,1,1,1,0,1,4
+U00903,F,65,Donostia-San Sebastián,0,0,0,0,0,1,3
+U00904,F,63,Zarautz,1,0,0,1,1,1,4
+U00905,F,47,Tolosa,0,0,0,0,0,1,3
+U00906,F,63,Bermeo,0,0,0,0,0,1,3
+U00907,M,45,Bilbao,0,0,0,0,0,0,3
+U00908,M,60,Eibar,1,1,0,1,1,1,4
+U00909,M,59,Durango,0,0,0,0,0,0,2
+U00910,F,58,Donostia-San Sebastián,0,0,0,0,0,0,3
+U00911,F,54,Eibar,1,0,1,1,1,1,4
+U00912,F,54,Hernani,1,0,1,1,0,1,4
+U00913,M,65,Bilbao,1,1,1,0,1,1,3
+U00914,F,63,Amurrio,0,0,0,0,0,0,2
+U00915,F,59,Vitoria-Gasteiz,1,0,1,0,1,0,4
+U00916,F,45,Vitoria-Gasteiz,1,1,0,0,1,0,3
+U00917,F,53,Donostia-San Sebastián,0,0,0,0,0,1,3
+U00918,F,50,Durango,1,0,1,1,1,1,4
+U00919,F,65,Mungia,1,1,1,0,1,1,4
+U00920,M,57,Getxo,1,0,0,0,0,1,3
+U00921,M,61,Bilbao,1,1,0,1,0,1,4
+U00922,F,64,Errenteria,1,1,0,1,0,1,3
+U00923,F,67,Barakaldo,1,1,1,0,1,1,5
+U00924,M,60,Basauri,1,1,0,1,1,1,5
+U00925,M,54,Bilbao,1,1,0,0,0,1,3
+U00926,M,65,Bilbao,1,1,1,1,0,1,4
+U00927,F,55,Errenteria,1,0,1,0,1,1,3
+U00928,M,55,Donostia-San Sebastián,1,1,0,1,1,0,4
+U00929,F,58,Leioa,1,1,1,1,1,1,4
+U00930,F,58,Donostia-San Sebastián,0,0,0,0,0,1,3
+U00931,M,50,Errenteria,1,1,0,0,1,0,4
+U00932,M,48,Eibar,1,1,0,1,1,1,4
+U00933,M,53,Zarautz,1,1,1,1,0,1,4
+U00934,F,55,Vitoria-Gasteiz,1,0,0,0,1,1,3
+U00935,F,54,Leioa,1,1,0,0,1,1,4
+U00936,F,46,Donostia-San Sebastián,1,1,1,1,1,1,4
+U00937,M,52,Tolosa,0,0,0,0,0,1,3
+U00938,M,45,Portugalete,1,1,1,1,1,1,4
+U00939,M,62,Amurrio,0,0,0,0,0,1,3
+U00940,F,48,Getxo,0,0,0,0,0,1,3
+U00941,M,48,Azpeitia,1,0,0,0,1,1,3
+U00942,M,55,Bilbao,1,1,1,1,1,1,5
+U00943,M,63,Getxo,1,1,1,1,1,0,4
+U00944,F,58,Barakaldo,0,0,0,0,0,1,3
+U00945,F,60,Errenteria,1,1,1,1,0,0,3
+U00946,F,49,Durango,1,1,0,1,0,1,4
+U00947,M,55,Vitoria-Gasteiz,1,1,0,1,1,1,4
+U00948,M,60,Vitoria-Gasteiz,1,1,1,1,1,1,5
+U00949,F,60,Basauri,1,1,1,1,1,1,4
+U00950,M,47,Bilbao,0,0,0,0,0,1,3
+U00951,F,57,Santurtzi,1,0,1,1,1,1,5
+U00952,F,49,Santurtzi,1,0,1,1,1,1,4
+U00953,F,60,Vitoria-Gasteiz,0,0,0,0,0,1,3
+U00954,F,49,Bilbao,0,0,0,0,0,0,1
+U00955,F,50,Santurtzi,1,0,0,1,0,1,3
+U00956,F,52,Bilbao,0,0,0,0,0,1,2
+U00957,M,54,Bilbao,1,0,0,1,0,1,4
+U00958,M,64,Vitoria-Gasteiz,1,1,0,0,1,1,4
+U00959,M,53,Barakaldo,1,1,1,1,1,1,4
+U00960,M,50,Vitoria-Gasteiz,0,0,0,0,0,1,2
+U00961,M,57,Bilbao,0,0,0,0,0,1,4
+U00962,F,50,Bilbao,1,1,1,0,1,1,4
+U00963,M,58,Portugalete,1,1,0,0,1,1,4
+U00964,M,53,Bilbao,1,0,1,0,1,1,4
+U00965,M,39,Vitoria-Gasteiz,1,1,1,1,0,1,5
+U00966,F,45,Irun,0,0,0,0,0,0,2
+U00967,M,61,Vitoria-Gasteiz,1,1,1,1,1,0,5
+U00968,F,65,Bilbao,1,1,1,0,0,0,4
+U00969,F,53,Vitoria-Gasteiz,1,1,1,1,1,1,4
+U00970,M,63,Irun,1,1,1,1,0,0,4
+U00971,M,70,Donostia-San Sebastián,1,1,0,1,1,1,4
+U00972,F,49,Portugalete,1,0,1,1,1,0,3
+U00973,F,42,Barakaldo,0,0,0,0,0,0,1
+U00974,M,49,Donostia-San Sebastián,1,1,1,1,1,0,4
+U00975,F,61,Zarautz,1,1,1,1,1,0,4
+U00976,M,65,Getxo,1,1,0,0,1,1,4
+U00977,M,51,Zarautz,1,1,0,1,0,1,3
+U00978,F,51,Getxo,1,1,1,1,0,1,4
+U00979,M,63,Portugalete,1,1,1,1,1,1,4
+U00980,F,64,Donostia-San Sebastián,1,1,0,0,0,1,3
+U00981,F,57,Llodio,0,0,0,0,0,1,3
+U00982,M,46,Vitoria-Gasteiz,0,0,0,0,0,1,3
+U00983,F,62,Barakaldo,0,0,0,0,0,1,2
+U00984,F,63,Donostia-San Sebastián,1,0,1,0,1,0,3
+U00985,F,64,Barakaldo,1,1,0,0,0,0,3
+U00986,F,47,Portugalete,1,0,1,1,1,1,4
+U00987,M,61,Barakaldo,1,0,1,0,1,1,4
+U00988,F,58,Irun,1,1,0,0,1,1,4
+U00989,F,32,Errenteria,1,1,0,0,1,1,4
+U00990,M,73,Llodio,1,1,1,0,1,1,4
+U00991,M,28,Portugalete,1,0,1,1,1,0,4
+U00992,M,61,Donostia-San Sebastián,1,1,0,1,1,0,3
+U00993,M,46,Leioa,0,0,0,0,0,1,3
+U00994,F,55,Bilbao,1,0,1,1,1,1,5
+U00995,M,51,Leioa,0,0,0,0,0,0,3
+U00996,M,46,Irun,1,1,0,1,0,1,4
+U00997,F,49,Basauri,0,0,0,0,0,1,3
+U00998,M,61,Barakaldo,1,1,1,1,1,1,4
+U00999,M,63,Errenteria,1,0,1,1,0,1,4
+U01000,M,64,Irun,1,0,1,0,0,1,4
+U01001,M,48,Santurtzi,1,1,0,0,0,1,4
+U01002,F,69,Hernani,1,1,1,1,0,1,3
+U01003,F,31,Barakaldo,1,0,1,1,1,0,4
+U01004,F,49,Eibar,1,1,0,0,1,1,3
+U01005,M,64,Bilbao,1,1,0,1,1,1,4
+U01006,F,49,Donostia-San Sebastián,0,0,0,0,0,0,3
+U01007,M,60,Leioa,1,1,1,1,0,1,4
+U01008,M,59,Bilbao,1,1,1,1,1,1,5
+U01009,F,56,Vitoria-Gasteiz,0,0,0,0,0,1,3
+U01010,F,64,Zarautz,1,0,0,1,1,1,4
+U01011,F,56,Basauri,1,0,1,0,0,1,4
+U01012,F,57,Azpeitia,1,0,0,1,1,1,4
+U01013,M,61,Errenteria,1,1,1,1,0,1,4
+U01014,F,47,Beasain,1,1,0,0,1,1,4
+U01015,M,45,Bilbao,0,0,0,0,0,1,4
+U01016,F,53,Hernani,1,1,0,1,0,1,3
+U01017,M,48,Durango,0,0,0,0,0,0,2
+U01018,M,49,Santurtzi,1,1,1,0,0,1,4
+U01019,M,33,Barakaldo,0,0,0,0,0,0,2
+U01020,F,65,Santurtzi,1,1,0,1,0,0,4
+U01021,F,56,Basauri,1,0,1,0,1,1,4
+U01022,F,49,Vitoria-Gasteiz,1,1,0,0,0,1,4
+U01023,M,55,Vitoria-Gasteiz,1,0,1,0,0,1,4
+U01024,M,65,Portugalete,1,1,0,0,0,1,3
+U01025,M,52,Donostia-San Sebastián,1,1,1,1,0,1,4
+U01026,F,53,Errenteria,1,1,0,0,0,0,3
+U01027,F,60,Durango,0,0,0,0,0,1,2
+U01028,F,56,Donostia-San Sebastián,1,0,1,0,1,1,4
+U01029,F,52,Donostia-San Sebastián,0,0,0,0,0,1,3
+U01030,M,63,Zarautz,1,1,1,1,1,1,5
+U01031,F,59,Bilbao,1,1,1,1,1,1,5
+U01032,F,51,Vitoria-Gasteiz,1,0,1,1,0,0,4
+U01033,M,57,Vitoria-Gasteiz,1,1,0,1,1,1,4
+U01034,F,51,Vitoria-Gasteiz,1,1,1,0,1,1,5
+U01035,M,64,Zarautz,1,1,1,1,1,1,5
+U01036,M,57,Barakaldo,0,0,0,0,0,0,3
+U01037,M,57,Durango,1,1,0,1,1,0,3
+U01038,M,48,Vitoria-Gasteiz,1,0,0,1,0,1,5
+U01039,M,59,Bilbao,1,0,0,1,0,1,3
+U01040,F,56,Donostia-San Sebastián,0,0,0,0,0,1,3
+U01041,M,53,Vitoria-Gasteiz,1,1,1,1,0,1,4
+U01042,F,46,Donostia-San Sebastián,0,0,0,0,0,1,3
+U01043,F,59,Errenteria,1,1,1,1,1,1,5
+U01044,M,60,Errenteria,1,1,0,1,0,1,4
+U01045,F,47,Bilbao,1,1,0,1,0,0,3
+U01046,M,59,Donostia-San Sebastián,1,1,0,1,0,1,4
+U01047,F,51,Leioa,1,0,1,1,1,1,5
+U01048,M,42,Vitoria-Gasteiz,1,1,0,1,1,1,4
+U01049,F,46,Portugalete,1,1,0,1,1,1,4
+U01050,F,52,Zarautz,1,0,0,1,1,0,3
+U01051,F,45,Bilbao,1,0,0,0,1,1,4
+U01052,M,49,Barakaldo,1,1,0,1,1,1,4
+U01053,F,56,Leioa,0,0,0,0,0,1,3
+U01054,F,58,Donostia-San Sebastián,0,0,0,0,0,1,3
+U01055,M,45,Bilbao,1,1,0,1,1,1,4
+U01056,M,46,Basauri,1,1,1,1,1,1,4
+U01057,M,54,Getxo,0,0,0,0,0,1,3
+U01058,M,49,Vitoria-Gasteiz,1,1,0,1,1,1,5
+U01059,M,53,Vitoria-Gasteiz,1,1,1,1,1,1,5
+U01060,M,61,Basauri,1,1,1,1,0,1,4
+U01061,F,48,Errenteria,1,0,1,1,0,1,3
+U01062,M,63,Vitoria-Gasteiz,1,1,1,1,1,1,4
+U01063,F,25,Vitoria-Gasteiz,0,0,0,0,0,1,3
+U01064,M,74,Bermeo,1,1,1,1,0,1,3
+U01065,F,54,Getxo,0,0,0,0,0,1,3
+U01066,F,30,Donostia-San Sebastián,1,0,1,0,0,1,4
+U01067,F,46,Beasain,1,1,1,1,1,1,4
+U01068,M,50,Bilbao,0,0,0,0,0,1,3
+U01069,F,53,Vitoria-Gasteiz,1,1,0,1,1,0,4
+U01070,M,60,Leioa,1,0,1,0,0,0,3
+U01071,M,58,Bilbao,1,1,1,0,1,0,3
+U01072,F,52,Bilbao,0,0,0,0,0,1,3
+U01073,F,46,Getxo,1,1,1,1,1,1,4
+U01074,M,45,Hernani,1,1,1,1,1,1,5
+U01075,M,47,Bilbao,1,1,1,1,1,0,4
+U01076,F,59,Donostia-San Sebastián,1,0,1,1,1,1,4
+U01077,M,62,Vitoria-Gasteiz,1,0,1,1,1,1,4
+U01078,F,53,Tolosa,1,1,0,1,0,1,5
+U01079,F,65,Tolosa,1,1,1,1,1,1,5
+U01080,F,64,Donostia-San Sebastián,1,1,1,1,1,1,4
+U01081,F,45,Basauri,1,1,0,0,0,1,3
+U01082,F,47,Portugalete,1,1,1,1,0,1,5
+U01083,F,45,Durango,0,0,0,0,0,0,1
+U01084,F,63,Bilbao,1,0,0,1,0,1,4
+U01085,M,50,Azpeitia,1,0,1,1,1,1,5
+U01086,F,52,Donostia-San Sebastián,1,1,1,0,1,0,4
+U01087,F,47,Bilbao,1,1,1,1,1,1,4
+U01088,F,52,Zarautz,0,0,0,0,0,1,3
+U01089,F,57,Donostia-San Sebastián,1,1,0,0,0,1,4
+U01090,M,57,Basauri,1,1,0,1,1,1,4
+U01091,M,51,Vitoria-Gasteiz,0,0,0,0,0,1,3
+U01092,M,61,Eibar,1,1,0,1,1,1,4
+U01093,F,57,Donostia-San Sebastián,1,1,0,1,0,1,4
+U01094,F,49,Bilbao,1,0,0,0,1,0,2
+U01095,F,50,Bilbao,1,1,0,0,1,1,4
+U01096,F,57,Irun,1,0,0,1,0,1,3
+U01097,F,47,Zarautz,1,1,0,1,1,1,5
+U01098,M,52,Santurtzi,1,1,0,0,1,0,4
+U01099,F,59,Vitoria-Gasteiz,1,1,1,1,1,1,5
+U01100,F,54,Portugalete,1,1,1,1,1,1,4
+U01101,F,47,Vitoria-Gasteiz,1,1,1,1,1,1,5
+U01102,F,64,Donostia-San Sebastián,1,0,0,0,1,1,3
+U01103,M,50,Hernani,1,1,1,0,1,1,4
+U01104,F,56,Bilbao,1,1,0,1,1,1,5
+U01105,F,33,Tolosa,1,0,0,0,0,1,3
+U01106,F,49,Bilbao,1,1,1,1,1,1,5
+U01107,M,52,Zarautz,1,0,0,0,1,1,4
+U01108,F,51,Azpeitia,1,0,0,1,0,1,4
+U01109,M,65,Portugalete,0,0,0,0,0,1,3
+U01110,M,56,Hernani,1,0,1,0,1,1,4
+U01111,F,65,Bilbao,0,0,0,0,0,1,3
+U01112,M,65,Getxo,0,0,0,0,0,0,3
+U01113,F,62,Getxo,0,0,0,0,0,1,2
+U01114,F,37,Donostia-San Sebastián,1,1,1,1,1,1,4
+U01115,F,53,Zarautz,1,1,0,1,0,0,4
+U01116,M,50,Irun,0,0,0,0,0,1,3
+U01117,F,60,Vitoria-Gasteiz,1,0,0,0,1,1,3
+U01118,M,26,Donostia-San Sebastián,0,0,0,0,0,0,2
+U01119,M,56,Irun,0,0,0,0,0,1,4
+U01120,F,36,Basauri,0,0,0,0,0,1,4
+U01121,F,65,Portugalete,1,0,1,1,1,0,4
+U01122,F,49,Vitoria-Gasteiz,1,1,1,1,1,1,5
+U01123,F,55,Bilbao,1,1,0,0,0,1,3
+U01124,M,55,Leioa,1,0,1,1,0,1,4
+U01125,M,61,Durango,1,1,1,1,1,1,4
+U01126,F,54,Leioa,1,0,0,1,1,1,4
+U01127,F,60,Durango,0,0,0,0,0,1,3
+U01128,F,63,Vitoria-Gasteiz,0,0,0,0,0,1,3
+U01129,M,48,Barakaldo,0,0,0,0,0,1,2
+U01130,F,59,Eibar,1,1,0,1,1,1,4
+U01131,F,56,Donostia-San Sebastián,1,1,0,1,0,1,4
+U01132,F,59,Beasain,1,0,0,0,1,1,3
+U01133,M,58,Getxo,1,1,0,1,1,1,4
+U01134,M,52,Donostia-San Sebastián,0,0,0,0,0,0,3
+U01135,M,55,Portugalete,1,1,1,1,1,1,5
+U01136,M,60,Barakaldo,1,0,0,1,0,0,3
+U01137,M,70,Leioa,0,0,0,0,0,1,2
+U01138,F,45,Durango,1,1,1,1,1,1,5
+U01139,F,44,Errenteria,0,0,0,0,0,1,3
+U01140,F,56,Irun,1,0,1,1,0,1,3
+U01141,M,53,Donostia-San Sebastián,0,0,0,0,0,1,3
+U01142,F,48,Bilbao,1,1,0,0,0,1,4
+U01143,M,60,Leioa,0,0,0,0,0,0,2
+U01144,M,71,Mungia,1,1,1,0,0,1,3
+U01145,M,52,Vitoria-Gasteiz,1,0,0,1,0,1,4
+U01146,F,56,Getxo,1,1,1,1,0,0,3
+U01147,M,63,Vitoria-Gasteiz,0,0,0,0,0,0,3
+U01148,M,68,Donostia-San Sebastián,1,1,0,1,1,0,3
+U01149,F,58,Donostia-San Sebastián,1,1,1,1,0,0,3
+U01150,F,52,Bilbao,1,0,0,1,1,1,3
+U01151,M,63,Zarautz,1,0,1,1,1,0,4
+U01152,F,54,Salvatierra,1,1,0,1,0,1,4
+U01153,M,56,Bilbao,1,0,0,1,1,1,4
+U01154,M,63,Donostia-San Sebastián,0,0,0,0,0,0,2
+U01155,F,53,Bilbao,0,0,0,0,0,1,3
+U01156,F,54,Irun,1,1,0,1,0,0,4
+U01157,M,68,Bilbao,1,1,1,1,0,1,4
+U01158,M,65,Eibar,1,1,1,1,1,1,4
+U01159,M,47,Errenteria,1,1,1,1,1,1,4
+U01160,F,65,Bilbao,1,1,1,1,0,1,4
+U01161,F,58,Getxo,1,1,1,1,0,0,4
+U01162,M,57,Hernani,1,0,1,1,1,1,4
+U01163,F,60,Irun,1,1,1,1,1,1,5
+U01164,F,56,Tolosa,1,0,1,1,1,1,5
+U01165,F,64,Vitoria-Gasteiz,1,0,1,0,1,1,3
+U01166,M,60,Getxo,1,1,1,1,1,1,4
+U01167,M,50,Durango,1,1,0,1,1,1,5
+U01168,F,38,Leioa,1,1,0,1,1,1,4
+U01169,F,52,Donostia-San Sebastián,1,1,1,0,1,1,5
+U01170,M,48,Getxo,0,0,0,0,0,1,3
+U01171,F,65,Mungia,1,1,1,0,0,1,3
+U01172,M,68,Bilbao,1,1,1,0,1,1,4
+U01173,F,58,Bilbao,1,1,0,1,1,0,4
+U01174,F,45,Bilbao,0,0,0,0,0,1,3
+U01175,M,52,Getxo,1,1,0,1,0,1,4
+U01176,M,60,Donostia-San Sebastián,0,0,0,0,0,1,3
+U01177,M,53,Getxo,1,1,1,0,1,1,5
+U01178,M,65,Bilbao,1,1,1,1,1,1,5
+U01179,M,51,Tolosa,1,0,0,0,0,1,3
+U01180,F,53,Bilbao,1,1,1,1,1,1,4
+U01181,M,47,Bilbao,1,0,1,0,1,1,4
+U01182,F,53,Bilbao,1,0,0,1,0,1,3
+U01183,M,26,Bilbao,1,1,1,1,1,1,4
+U01184,M,64,Zarautz,0,0,0,0,0,1,3
+U01185,F,61,Irun,1,1,1,1,1,1,5
+U01186,F,56,Basauri,1,1,0,1,0,1,4
+U01187,F,48,Santurtzi,0,0,0,0,0,1,3
+U01188,F,56,Portugalete,1,0,0,1,0,1,4
+U01189,F,54,Bilbao,1,0,1,1,1,0,4
+U01190,F,64,Leioa,0,0,0,0,0,1,3
+U01191,F,46,Getxo,1,1,0,1,0,1,4
+U01192,M,47,Salvatierra,1,1,1,1,1,1,4
+U01193,M,25,Donostia-San Sebastián,1,1,1,0,1,1,4
+U01194,M,57,Eibar,0,0,0,0,0,1,3
+U01195,M,53,Getxo,1,1,0,1,1,1,4
+U01196,M,61,Errenteria,1,1,1,1,0,1,4
+U01197,F,55,Vitoria-Gasteiz,1,0,1,0,1,1,4
+U01198,M,49,Bilbao,1,0,1,0,1,1,3
+U01199,M,61,Vitoria-Gasteiz,1,1,0,1,1,0,4
+U01200,M,48,Irun,0,0,0,0,0,1,3
+U01201,M,59,Eibar,0,0,0,0,0,1,2
+U01202,F,60,Leioa,1,1,0,1,0,1,4
+U01203,F,45,Santurtzi,1,1,1,0,1,1,4
+U01204,F,70,Donostia-San Sebastián,1,1,1,1,1,1,4
+U01205,M,47,Donostia-San Sebastián,1,1,1,1,0,1,3
+U01206,M,45,Irun,0,0,0,0,0,1,3
+U01207,M,46,Basauri,1,1,0,0,1,0,3
+U01208,F,66,Basauri,0,0,0,0,0,1,2
+U01209,F,55,Irun,1,0,0,1,1,1,4
+U01210,F,61,Vitoria-Gasteiz,1,1,0,1,1,1,4
+U01211,F,25,Errenteria,1,0,1,1,1,1,5
+U01212,F,47,Azpeitia,1,1,0,1,1,1,4
+U01213,M,47,Santurtzi,1,1,0,0,1,1,4
+U01214,M,47,Mungia,1,0,0,0,0,1,3
+U01215,M,57,Amurrio,1,1,0,0,0,0,3
+U01216,F,46,Basauri,1,1,0,1,1,1,4
+U01217,M,45,Zarautz,0,0,0,0,0,0,2
+U01218,M,59,Durango,1,1,0,1,0,1,3
+U01219,M,48,Tolosa,1,1,1,1,0,1,4
+U01220,M,53,Eibar,1,0,0,0,1,0,2
+U01221,F,42,Durango,1,0,1,1,1,1,4
+U01222,M,56,Portugalete,1,1,1,1,0,1,4
+U01223,F,72,Bilbao,1,1,0,0,1,0,3
+U01224,F,57,Errenteria,1,0,1,1,0,1,4
+U01225,M,54,Barakaldo,1,1,0,0,1,1,4
+U01226,F,62,Barakaldo,1,1,1,1,1,1,5
+U01227,F,55,Zarautz,1,1,1,1,1,1,4
+U01228,M,49,Portugalete,1,1,0,1,0,1,4
+U01229,F,49,Santurtzi,1,1,0,1,1,1,4
+U01230,F,59,Bilbao,1,1,0,1,1,1,4
+U01231,M,49,Basauri,1,0,0,0,1,1,4
+U01232,F,60,Irun,1,1,1,0,1,1,3
+U01233,F,63,Errenteria,1,1,1,1,1,1,4
+U01234,M,53,Getxo,1,1,0,1,0,1,4
+U01235,M,48,Donostia-San Sebastián,1,1,1,1,1,1,5
+U01236,M,55,Donostia-San Sebastián,1,1,0,1,1,1,5
+U01237,F,53,Vitoria-Gasteiz,1,1,0,0,1,0,3
+U01238,M,45,Leioa,1,1,1,1,0,1,4
+U01239,M,59,Donostia-San Sebastián,1,1,1,1,1,1,4
+U01240,F,42,Bilbao,0,0,0,0,0,1,3
+U01241,F,56,Vitoria-Gasteiz,1,1,1,1,1,0,5
+U01242,F,45,Donostia-San Sebastián,1,1,1,1,0,1,4
+U01243,F,49,Vitoria-Gasteiz,1,1,0,0,0,1,3
+U01244,M,54,Bilbao,1,0,1,0,1,1,3
+U01245,F,54,Getxo,0,0,0,0,0,1,3
+U01246,F,50,Vitoria-Gasteiz,1,1,1,1,1,1,5
+U01247,M,62,Getxo,0,0,0,0,0,0,2
+U01248,F,31,Vitoria-Gasteiz,0,0,0,0,0,1,3
+U01249,F,31,Zarautz,0,0,0,0,0,1,3
+U01250,M,61,Durango,1,1,1,0,1,1,4
+U01251,F,56,Llodio,1,1,0,1,0,1,4
+U01252,F,58,Amurrio,1,1,1,1,1,1,4
+U01253,F,58,Vitoria-Gasteiz,0,0,0,0,0,1,3
+U01254,M,47,Barakaldo,0,0,0,0,0,0,2
+U01255,F,53,Irun,1,1,0,1,0,1,4
+U01256,M,57,Basauri,1,1,1,1,1,0,4
+U01257,M,65,Barakaldo,1,1,1,0,0,1,4
+U01258,F,48,Irun,1,1,1,0,0,1,4
+U01259,F,64,Mungia,1,0,0,1,1,0,3
+U01260,M,52,Bilbao,1,0,0,0,1,1,3
+U01261,M,65,Eibar,1,1,0,1,1,1,3
+U01262,F,62,Bilbao,0,0,0,0,0,1,3
+U01263,M,53,Barakaldo,0,0,0,0,0,1,3
+U01264,M,57,Barakaldo,1,1,1,1,1,1,4
+U01265,F,55,Hernani,1,1,1,1,1,1,5
+U01266,F,57,Vitoria-Gasteiz,1,1,1,1,0,1,5
+U01267,F,64,Eibar,1,1,0,1,1,0,4
+U01268,M,56,Azpeitia,1,1,1,1,1,1,4
+U01269,M,54,Basauri,0,0,0,0,0,0,2
+U01270,M,63,Bilbao,1,1,0,1,1,1,5
+U01271,M,65,Portugalete,1,1,0,1,1,1,4
+U01272,M,53,Bilbao,1,1,0,0,1,1,3
+U01273,M,46,Vitoria-Gasteiz,0,0,0,0,0,1,3
+U01274,F,62,Barakaldo,1,0,0,1,1,1,4
+U01275,F,69,Eibar,1,1,0,1,0,1,4
+U01276,F,60,Donostia-San Sebastián,1,1,0,1,1,1,4
+U01277,M,50,Irun,1,1,1,1,0,0,4
+U01278,M,63,Vitoria-Gasteiz,1,1,1,1,1,1,4
+U01279,F,60,Getxo,1,0,1,1,1,1,4
+U01280,M,51,Vitoria-Gasteiz,1,1,0,0,1,1,4
+U01281,M,62,Bilbao,1,1,0,1,1,1,4
+U01282,F,58,Irun,1,1,1,1,0,1,4
+U01283,M,57,Santurtzi,1,1,0,0,0,0,3
+U01284,F,25,Durango,1,0,1,0,0,0,3
+U01285,F,53,Getxo,0,0,0,0,0,1,3
+U01286,F,55,Mungia,0,0,0,0,0,1,2
+U01287,M,49,Basauri,0,0,0,0,0,1,3
+U01288,F,59,Bilbao,1,1,1,1,1,1,4
+U01289,M,65,Bilbao,0,0,0,0,0,1,3
+U01290,F,47,Hernani,1,1,0,0,0,0,3
+U01291,F,31,Vitoria-Gasteiz,0,0,0,0,0,0,2
+U01292,F,53,Vitoria-Gasteiz,0,0,0,0,0,1,3
+U01293,F,53,Vitoria-Gasteiz,1,1,0,1,1,1,4
+U01294,F,50,Getxo,1,0,1,1,1,1,4
+U01295,M,51,Barakaldo,1,1,1,0,1,1,5
+U01296,F,47,Eibar,1,1,1,1,1,1,5
+U01297,F,65,Portugalete,1,1,1,1,1,1,5
+U01298,F,54,Barakaldo,1,0,0,0,0,0,2
+U01299,F,48,Vitoria-Gasteiz,1,0,1,1,0,1,3
+U01300,F,49,Barakaldo,1,1,1,1,1,1,5
+U01301,M,62,Santurtzi,1,0,1,0,1,1,4
+U01302,F,46,Barakaldo,1,1,0,1,1,1,4
+U01303,F,56,Vitoria-Gasteiz,1,1,0,1,1,1,5
+U01304,M,62,Basauri,1,1,1,1,1,1,5
+U01305,F,61,Donostia-San Sebastián,1,0,1,0,0,1,3
+U01306,M,60,Hernani,1,1,1,1,1,1,5
+U01307,F,75,Donostia-San Sebastián,1,1,1,1,1,1,4
+U01308,F,33,Zarautz,0,0,0,0,0,1,3
+U01309,M,45,Bilbao,1,0,0,1,0,1,3
+U01310,F,55,Vitoria-Gasteiz,1,1,1,0,1,1,4
+U01311,M,46,Bilbao,1,1,0,0,1,1,3
+U01312,F,50,Barakaldo,0,0,0,0,0,1,4
+U01313,M,61,Zarautz,1,1,1,1,1,0,5
+U01314,M,49,Irun,1,0,0,1,1,0,3
+U01315,F,56,Donostia-San Sebastián,1,1,1,1,1,1,4
+U01316,F,53,Barakaldo,1,1,1,1,1,1,4
+U01317,F,55,Tolosa,0,0,0,0,0,1,2
+U01318,F,45,Portugalete,1,1,0,1,1,1,5
+U01319,F,63,Vitoria-Gasteiz,1,1,0,0,0,0,3
+U01320,F,58,Hernani,1,0,0,1,1,1,4
+U01321,M,67,Zarautz,1,0,0,1,0,1,4
+U01322,M,34,Santurtzi,0,0,0,0,0,1,3
+U01323,F,46,Donostia-San Sebastián,1,1,1,0,1,1,4
+U01324,M,65,Irun,0,0,0,0,0,1,3
+U01325,F,44,Santurtzi,0,0,0,0,0,1,2
+U01326,M,51,Barakaldo,1,1,1,1,0,0,4
+U01327,M,60,Llodio,1,0,0,1,0,0,4
+U01328,M,59,Bilbao,1,0,1,1,0,1,4
+U01329,F,49,Tolosa,0,0,0,0,0,0,2
+U01330,F,57,Bilbao,1,1,0,0,0,1,4
+U01331,F,53,Azpeitia,1,1,1,1,1,0,4
+U01332,M,53,Getxo,1,1,1,1,0,1,3
+U01333,M,74,Barakaldo,1,0,0,1,0,1,3
+U01334,F,63,Leioa,1,1,0,1,1,1,4
+U01335,F,60,Bilbao,1,1,1,0,1,1,4
+U01336,M,51,Bilbao,0,0,0,0,0,1,3
+U01337,M,51,Donostia-San Sebastián,1,1,0,0,0,1,3
+U01338,F,47,Bilbao,1,1,1,1,1,1,4
+U01339,M,54,Donostia-San Sebastián,1,1,0,1,1,0,4
+U01340,M,46,Donostia-San Sebastián,1,0,1,1,0,0,3
+U01341,M,63,Irun,1,1,1,1,1,1,4
+U01342,F,57,Tolosa,1,1,0,0,0,1,4
+U01343,F,65,Donostia-San Sebastián,1,1,0,1,1,1,4
+U01344,F,55,Tolosa,1,0,1,1,0,1,4
+U01345,F,63,Tolosa,1,1,0,0,1,1,4
+U01346,M,55,Leioa,0,0,0,0,0,1,3
+U01347,F,71,Donostia-San Sebastián,1,0,1,1,0,0,3
+U01348,M,35,Bilbao,0,0,0,0,0,0,3
+U01349,F,56,Donostia-San Sebastián,1,1,1,1,0,0,4
+U01350,F,55,Vitoria-Gasteiz,1,1,0,1,1,1,5
+U01351,M,65,Tolosa,1,0,0,1,0,1,4
+U01352,F,59,Vitoria-Gasteiz,1,0,1,1,1,1,5
+U01353,F,62,Donostia-San Sebastián,1,1,0,1,1,0,3
+U01354,F,50,Amurrio,1,1,1,1,0,1,4
+U01355,F,66,Donostia-San Sebastián,1,0,0,0,0,1,3
+U01356,F,48,Donostia-San Sebastián,1,1,0,1,1,1,4
+U01357,F,54,Zarautz,1,0,0,1,1,0,4
+U01358,F,51,Mungia,1,1,0,1,0,1,4
+U01359,M,48,Eibar,1,0,0,0,1,1,3
+U01360,F,64,Irun,1,1,0,0,0,1,4
+U01361,F,48,Donostia-San Sebastián,1,0,1,1,0,0,3
+U01362,F,55,Vitoria-Gasteiz,1,0,1,0,1,1,4
+U01363,F,50,Leioa,1,0,1,1,1,1,4
+U01364,F,48,Donostia-San Sebastián,1,1,0,1,0,1,4
+U01365,M,41,Tolosa,1,1,1,1,0,0,4
+U01366,F,29,Tolosa,1,0,1,1,0,1,4
+U01367,F,65,Donostia-San Sebastián,1,1,1,1,1,1,5
+U01368,M,59,Portugalete,1,1,0,1,0,1,4
+U01369,M,56,Vitoria-Gasteiz,1,0,1,0,0,1,4
+U01370,F,48,Donostia-San Sebastián,1,0,0,1,0,1,4
+U01371,F,48,Bilbao,1,0,0,0,0,1,3
+U01372,F,51,Bilbao,1,1,1,1,0,0,3
+U01373,F,47,Donostia-San Sebastián,1,1,0,0,0,1,3
+U01374,F,62,Santurtzi,0,0,0,0,0,1,3
+U01375,M,48,Barakaldo,1,1,0,1,0,0,4
+U01376,M,59,Getxo,1,1,1,1,0,1,4
+U01377,F,64,Irun,1,1,0,0,1,1,4
+U01378,M,51,Getxo,0,0,0,0,0,1,3
+U01379,F,56,Bilbao,1,1,0,1,1,1,3
+U01380,M,56,Barakaldo,1,0,1,1,1,1,3
+U01381,F,48,Irun,0,0,0,0,0,1,2
+U01382,M,49,Llodio,1,0,0,1,1,1,4
+U01383,M,50,Leioa,1,0,0,0,0,0,3
+U01384,F,52,Zarautz,1,1,0,1,1,1,4
+U01385,F,43,Basauri,1,1,1,0,1,0,4
+U01386,F,56,Donostia-San Sebastián,1,1,1,1,1,1,4
+U01387,M,55,Vitoria-Gasteiz,1,1,0,0,1,1,4
+U01388,F,55,Bilbao,1,0,1,1,0,1,4
+U01389,M,51,Barakaldo,1,1,0,1,1,1,4
+U01390,M,47,Vitoria-Gasteiz,0,0,0,0,0,0,2
+U01391,F,64,Vitoria-Gasteiz,1,1,1,1,1,1,5
+U01392,M,69,Portugalete,1,1,1,1,1,1,4
+U01393,M,57,Donostia-San Sebastián,1,1,1,1,0,0,4
+U01394,F,54,Vitoria-Gasteiz,1,1,1,1,0,1,4
+U01395,F,53,Errenteria,1,1,1,0,0,1,4
+U01396,M,62,Barakaldo,0,0,0,0,0,1,3
+U01397,F,49,Errenteria,1,1,1,1,1,1,4
+U01398,F,59,Bilbao,1,1,1,1,1,1,5
+U01399,F,56,Portugalete,1,1,0,1,1,1,3
+U01400,M,56,Beasain,1,0,1,0,1,0,3
+U01401,F,47,Bermeo,1,1,0,1,0,1,4
+U01402,M,56,Leioa,1,1,1,1,0,1,4
+U01403,F,46,Beasain,1,1,1,1,1,0,5
+U01404,F,56,Basauri,1,0,0,1,1,1,4
+U01405,F,49,Bilbao,1,0,1,1,1,1,4
+U01406,M,56,Errenteria,1,1,1,1,1,1,4
+U01407,M,46,Donostia-San Sebastián,1,1,1,0,0,0,4
+U01408,M,27,Vitoria-Gasteiz,1,1,1,1,1,1,4
+U01409,M,64,Llodio,0,0,0,0,0,1,3
+U01410,F,50,Zarautz,1,1,1,1,0,1,4
+U01411,F,46,Leioa,0,0,0,0,0,0,3
+U01412,F,55,Barakaldo,0,0,0,0,0,0,3
+U01413,M,58,Donostia-San Sebastián,1,1,1,0,1,1,4
+U01414,F,53,Bilbao,1,0,0,1,0,1,3
+U01415,F,62,Vitoria-Gasteiz,1,0,0,0,0,1,3
+U01416,F,62,Basauri,0,0,0,0,0,0,2
+U01417,M,40,Bilbao,1,1,0,1,0,1,4
+U01418,M,60,Getxo,0,0,0,0,0,0,3
+U01419,M,49,Leioa,1,1,1,1,0,0,4
+U01420,F,60,Getxo,1,1,0,1,1,1,4
+U01421,F,48,Getxo,1,1,0,1,1,0,4
+U01422,M,45,Getxo,0,0,0,0,0,0,2
+U01423,F,48,Basauri,0,0,0,0,0,1,2
+U01424,F,58,Bilbao,1,1,0,1,0,0,3
+U01425,M,51,Errenteria,0,0,0,0,0,0,3
+U01426,F,45,Irun,1,1,1,1,1,1,4
+U01427,F,51,Bilbao,1,1,1,1,0,1,4
+U01428,M,47,Vitoria-Gasteiz,1,1,1,1,0,1,4
+U01429,F,30,Donostia-San Sebastián,0,0,0,0,0,0,3
+U01430,F,48,Bilbao,1,1,0,1,1,1,4
+U01431,M,60,Irun,1,1,0,1,0,1,4
+U01432,F,34,Basauri,1,1,1,1,1,1,4
+U01433,F,53,Donostia-San Sebastián,1,1,0,1,0,1,4
+U01434,M,45,Portugalete,1,0,0,1,1,0,3
+U01435,M,57,Donostia-San Sebastián,0,0,0,0,0,1,3
+U01436,M,64,Irun,0,0,0,0,0,0,3
+U01437,F,29,Donostia-San Sebastián,0,0,0,0,0,1,4
+U01438,M,59,Barakaldo,1,1,1,1,1,1,4
+U01439,M,54,Irun,1,0,1,1,0,1,4
+U01440,M,52,Bilbao,1,0,0,1,0,1,3
+U01441,F,55,Irun,1,1,1,1,1,1,5
+U01442,F,45,Bilbao,1,0,0,0,1,1,3
+U01443,F,72,Beasain,1,0,0,1,0,1,4
+U01444,M,54,Bilbao,1,1,1,0,0,1,4
+U01445,F,60,Bilbao,1,1,0,1,0,1,4
+U01446,F,52,Hernani,1,1,1,1,1,1,5
+U01447,F,60,Vitoria-Gasteiz,0,0,0,0,0,1,3
+U01448,M,61,Vitoria-Gasteiz,1,1,1,1,1,1,4
+U01449,F,44,Donostia-San Sebastián,1,1,1,0,1,1,5
+U01450,F,60,Donostia-San Sebastián,1,1,1,1,1,0,4
+U01451,M,54,Basauri,0,0,0,0,0,1,3
+U01452,F,50,Donostia-San Sebastián,1,1,1,1,1,1,5
+U01453,F,46,Salvatierra,1,0,0,0,1,1,3
+U01454,F,64,Donostia-San Sebastián,1,1,1,1,1,1,4
+U01455,F,49,Vitoria-Gasteiz,1,1,0,0,1,0,3
+U01456,F,53,Getxo,1,0,0,1,0,1,3
+U01457,F,62,Bilbao,1,0,0,0,1,1,4
+U01458,M,48,Bilbao,1,0,0,0,0,1,4
+U01459,M,58,Santurtzi,1,1,1,1,1,0,4
+U01460,M,45,Donostia-San Sebastián,1,0,1,1,1,1,4
+U01461,F,51,Getxo,0,0,0,0,0,0,3
+U01462,F,67,Irun,1,0,0,1,0,1,3
+U01463,M,52,Leioa,1,1,0,1,1,1,4
+U01464,F,53,Portugalete,1,1,1,1,1,1,5
+U01465,F,53,Mungia,1,0,0,1,0,0,3
+U01466,F,63,Bilbao,1,1,1,1,0,1,4
+U01467,F,53,Barakaldo,1,1,1,1,1,1,4
+U01468,F,41,Vitoria-Gasteiz,1,0,0,1,0,1,4
+U01469,M,74,Errenteria,1,1,1,1,0,0,4
+U01470,M,59,Tolosa,0,0,0,0,0,1,3
+U01471,F,49,Durango,0,0,0,0,0,0,3
+U01472,F,65,Eibar,1,1,1,1,0,1,4
+U01473,M,58,Getxo,1,1,0,0,1,1,4
+U01474,F,47,Bilbao,1,1,1,1,0,1,4
+U01475,F,62,Barakaldo,0,0,0,0,0,0,3
+U01476,M,47,Durango,0,0,0,0,0,1,3
+U01477,M,58,Irun,1,1,1,0,1,1,4
+U01478,M,56,Zarautz,1,1,0,1,1,1,4
+U01479,M,51,Santurtzi,1,1,1,1,0,0,4
+U01480,M,55,Donostia-San Sebastián,0,0,0,0,0,1,3
+U01481,F,62,Donostia-San Sebastián,1,1,1,1,1,1,5
+U01482,M,61,Bilbao,1,1,1,0,1,1,4
+U01483,M,53,Donostia-San Sebastián,0,0,0,0,0,0,3
+U01484,M,57,Vitoria-Gasteiz,1,0,0,1,1,1,4
+U01485,F,64,Barakaldo,1,0,1,1,0,1,4
+U01486,M,50,Bilbao,0,0,0,0,0,1,3
+U01487,F,46,Bilbao,1,1,1,0,1,0,3
+U01488,F,37,Tolosa,1,1,1,1,1,1,4
+U01489,F,56,Eibar,0,0,0,0,0,0,2
+U01490,F,40,Vitoria-Gasteiz,1,0,0,0,1,0,3
+U01491,F,45,Azpeitia,1,1,0,1,1,1,4
+U01492,M,32,Donostia-San Sebastián,0,0,0,0,0,1,3
+U01493,F,48,Irun,1,1,1,1,1,1,4
+U01494,M,57,Vitoria-Gasteiz,1,1,0,1,1,1,4
+U01495,M,45,Leioa,0,0,0,0,0,1,3
+U01496,M,53,Bilbao,1,1,1,1,0,1,4
+U01497,F,48,Bilbao,1,1,0,1,0,1,4
+U01498,F,51,Irun,1,1,0,1,0,1,3
+U01499,F,56,Bilbao,1,1,1,1,0,0,4
+U01500,F,42,Getxo,1,1,1,0,0,1,3
+U01501,F,49,Bilbao,1,1,1,1,0,1,4
+U01502,F,61,Errenteria,1,1,1,1,0,1,3
+U01503,F,51,Getxo,1,1,1,0,1,1,4
+U01504,M,50,Eibar,0,0,0,0,0,1,3
+U01505,M,53,Irun,1,0,1,0,1,0,3
+U01506,M,55,Bilbao,1,1,0,0,0,1,3
+U01507,M,62,Bilbao,1,0,1,1,0,0,3
+U01508,F,64,Barakaldo,1,1,0,1,1,1,4
+U01509,F,65,Bilbao,1,1,1,0,1,1,4
+U01510,F,56,Bilbao,1,1,1,0,1,1,4
+U01511,F,64,Vitoria-Gasteiz,1,0,0,1,1,1,3
+U01512,F,48,Santurtzi,0,0,0,0,0,1,3
+U01513,M,67,Bilbao,1,0,1,1,0,1,3
+U01514,M,53,Leioa,1,1,0,0,0,1,3
+U01515,F,36,Vitoria-Gasteiz,1,1,0,1,0,1,4
+U01516,F,38,Vitoria-Gasteiz,1,1,0,1,1,1,5
+U01517,F,56,Tolosa,0,0,0,0,0,1,3
+U01518,F,58,Bermeo,1,1,0,1,0,0,4
+U01519,F,60,Hernani,1,0,0,1,1,1,4
+U01520,F,59,Bilbao,1,1,0,1,1,1,4
+U01521,M,45,Donostia-San Sebastián,1,1,0,1,0,1,4
+U01522,F,46,Mungia,1,1,1,1,1,0,4
+U01523,F,61,Donostia-San Sebastián,1,1,1,1,1,1,4
+U01524,M,51,Vitoria-Gasteiz,1,1,0,0,0,1,4
+U01525,F,63,Vitoria-Gasteiz,0,0,0,0,0,1,3
+U01526,M,53,Vitoria-Gasteiz,0,0,0,0,0,0,3
+U01527,M,65,Vitoria-Gasteiz,0,0,0,0,0,1,3
+U01528,M,57,Hernani,0,0,0,0,0,0,2
+U01529,M,49,Durango,1,0,0,1,1,1,4
+U01530,F,50,Irun,1,1,0,1,1,1,4
+U01531,M,64,Bilbao,0,0,0,0,0,1,3
+U01532,F,46,Zarautz,1,1,0,1,0,1,4
+U01533,F,48,Vitoria-Gasteiz,1,1,1,0,1,1,5
+U01534,F,71,Barakaldo,0,0,0,0,0,1,3
+U01535,M,46,Bilbao,0,0,0,0,0,1,3
+U01536,F,61,Amurrio,1,1,1,1,1,1,5
+U01537,M,38,Getxo,1,1,1,1,1,0,4
+U01538,F,53,Donostia-San Sebastián,1,1,0,1,0,1,4
+U01539,M,62,Leioa,1,0,0,1,1,0,3
+U01540,M,50,Bilbao,1,1,1,1,0,1,4
+U01541,F,49,Llodio,1,0,1,1,1,1,4
+U01542,M,53,Eibar,0,0,0,0,0,1,4
+U01543,M,48,Bilbao,1,0,0,0,1,0,3
+U01544,M,51,Amurrio,1,1,1,1,1,1,4
+U01545,M,38,Donostia-San Sebastián,1,0,1,1,0,1,5
+U01546,F,47,Beasain,1,1,0,1,0,1,4
+U01547,F,64,Donostia-San Sebastián,1,1,1,0,0,1,4
+U01548,F,49,Portugalete,0,0,0,0,0,1,3
+U01549,M,59,Llodio,1,1,1,1,0,1,4
+U01550,M,56,Vitoria-Gasteiz,1,1,0,1,1,0,4
+U01551,F,41,Errenteria,0,0,0,0,0,1,3
+U01552,F,59,Santurtzi,1,1,1,1,1,1,4
+U01553,M,55,Barakaldo,1,1,0,1,0,0,4
+U01554,M,63,Donostia-San Sebastián,0,0,0,0,0,1,3
+U01555,F,56,Basauri,1,1,0,0,0,1,3
+U01556,F,64,Durango,1,1,0,0,1,0,3
+U01557,F,61,Santurtzi,0,0,0,0,0,0,3
+U01558,F,61,Donostia-San Sebastián,1,1,0,1,0,1,3
+U01559,F,61,Hernani,1,1,1,0,1,1,4
+U01560,F,59,Santurtzi,1,1,0,1,1,1,4
+U01561,F,54,Donostia-San Sebastián,1,1,0,0,1,1,4
+U01562,M,36,Zarautz,1,0,0,1,1,1,3
+U01563,M,54,Vitoria-Gasteiz,1,1,1,1,1,1,4
+U01564,M,59,Eibar,1,1,1,0,1,1,4
+U01565,F,48,Vitoria-Gasteiz,1,1,1,0,0,1,3
+U01566,M,62,Basauri,0,0,0,0,0,0,2
+U01567,M,45,Basauri,0,0,0,0,0,0,2
+U01568,M,65,Donostia-San Sebastián,0,0,0,0,0,0,2
+U01569,F,51,Irun,1,1,1,1,1,0,4
+U01570,M,52,Bilbao,0,0,0,0,0,1,4
+U01571,F,50,Getxo,1,1,1,1,0,1,4
+U01572,F,33,Basauri,0,0,0,0,0,0,3
+U01573,M,49,Vitoria-Gasteiz,1,1,0,0,1,1,4
+U01574,F,49,Donostia-San Sebastián,1,0,1,1,1,1,4
+U01575,F,60,Getxo,1,1,0,0,0,1,4
+U01576,M,46,Donostia-San Sebastián,0,0,0,0,0,0,3
+U01577,M,64,Bilbao,1,0,1,1,1,1,4
+U01578,F,59,Vitoria-Gasteiz,1,1,1,1,1,0,4
+U01579,F,68,Azpeitia,1,1,0,1,0,1,4
+U01580,F,60,Leioa,1,0,1,1,1,1,5
+U01581,M,65,Bilbao,1,1,0,1,1,1,5
+U01582,F,54,Getxo,1,1,0,1,1,1,4
+U01583,F,32,Donostia-San Sebastián,1,0,0,1,1,1,4
+U01584,F,59,Llodio,1,1,0,0,1,0,4
+U01585,F,50,Donostia-San Sebastián,0,0,0,0,0,1,3
+U01586,M,65,Barakaldo,1,0,1,0,1,0,3
+U01587,M,65,Donostia-San Sebastián,1,0,0,0,1,1,3
+U01588,F,74,Donostia-San Sebastián,1,1,0,1,0,1,4
+U01589,M,53,Getxo,0,0,0,0,0,1,3
+U01590,F,47,Basauri,1,0,0,1,1,1,4
+U01591,M,50,Bilbao,1,0,1,1,0,0,3
+U01592,M,45,Irun,1,0,0,1,0,1,4
+U01593,M,46,Tolosa,1,1,1,0,0,1,4
+U01594,F,54,Errenteria,1,1,1,1,0,1,5
+U01595,F,55,Bilbao,1,1,1,1,1,1,5
+U01596,F,51,Vitoria-Gasteiz,1,1,1,1,1,1,4
+U01597,M,50,Vitoria-Gasteiz,1,1,0,1,0,1,3
+U01598,M,47,Bilbao,1,1,1,1,1,1,5
+U01599,M,53,Bilbao,1,1,0,1,1,1,4
+U01600,M,62,Donostia-San Sebastián,1,1,1,0,1,0,3
+U01601,F,50,Hernani,1,1,0,0,1,1,4
+U01602,M,56,Basauri,1,1,1,1,0,1,4
+U01603,F,37,Errenteria,1,0,1,1,1,1,4
+U01604,F,63,Donostia-San Sebastián,1,0,0,1,0,1,4
+U01605,M,59,Donostia-San Sebastián,1,0,0,1,1,1,3
+U01606,M,54,Eibar,0,0,0,0,0,0,2
+U01607,M,65,Bilbao,1,1,1,1,0,1,4
+U01608,F,45,Vitoria-Gasteiz,1,0,1,1,1,1,4
+U01609,M,55,Getxo,1,0,1,1,0,1,4
+U01610,F,64,Bilbao,1,1,0,1,0,1,4
+U01611,F,58,Bilbao,1,1,1,1,0,1,4
+U01612,M,62,Bilbao,1,1,0,1,0,1,4
+U01613,F,46,Vitoria-Gasteiz,1,0,0,0,1,1,3
+U01614,M,58,Durango,1,1,1,1,1,1,4
+U01615,M,60,Barakaldo,1,1,0,0,1,0,3
+U01616,M,65,Donostia-San Sebastián,0,0,0,0,0,1,3
+U01617,F,50,Eibar,1,1,0,0,1,1,4
+U01618,F,57,Bilbao,1,1,0,1,1,0,3
+U01619,F,62,Vitoria-Gasteiz,0,0,0,0,0,1,4
+U01620,F,57,Zarautz,1,0,0,1,1,1,4
+U01621,F,27,Vitoria-Gasteiz,1,1,0,1,1,1,4
+U01622,F,64,Mungia,1,1,0,1,0,1,4
+U01623,M,61,Basauri,1,1,0,0,0,1,3
+U01624,F,53,Donostia-San Sebastián,0,0,0,0,0,1,4
+U01625,F,43,Barakaldo,1,1,1,1,1,1,5
+U01626,F,51,Donostia-San Sebastián,1,1,1,1,1,1,4
+U01627,F,48,Durango,1,1,1,1,1,1,4
+U01628,F,56,Errenteria,1,1,1,1,1,1,5
+U01629,M,49,Vitoria-Gasteiz,1,1,1,1,1,1,4
+U01630,F,65,Vitoria-Gasteiz,1,0,0,1,1,1,4
+U01631,M,54,Irun,1,0,0,0,0,0,3
+U01632,M,45,Donostia-San Sebastián,1,1,1,1,1,1,4
+U01633,M,26,Bilbao,1,0,0,0,1,0,3
+U01634,F,46,Azpeitia,1,1,1,0,1,0,3
+U01635,M,47,Irun,1,1,1,1,1,1,4
+U01636,F,65,Irun,1,1,1,1,1,1,5
+U01637,F,71,Bilbao,0,0,0,0,0,0,2
+U01638,F,62,Zarautz,1,1,1,1,0,0,4
+U01639,M,56,Errenteria,1,1,0,0,1,1,4
+U01640,F,53,Durango,1,1,1,1,1,1,4
+U01641,F,49,Donostia-San Sebastián,1,1,1,1,1,1,4
+U01642,M,65,Bilbao,1,1,1,1,1,1,5
+U01643,F,44,Eibar,1,1,0,1,1,1,5
+U01644,F,58,Bilbao,1,1,0,0,1,1,4
+U01645,F,46,Irun,1,1,1,1,1,0,4
+U01646,M,45,Bermeo,1,1,1,1,1,1,5
+U01647,F,54,Vitoria-Gasteiz,1,1,1,1,1,0,4
+U01648,F,55,Vitoria-Gasteiz,1,1,1,1,0,1,4
+U01649,M,54,Errenteria,0,0,0,0,0,0,2
+U01650,M,48,Donostia-San Sebastián,1,1,0,1,0,1,3
+U01651,F,63,Donostia-San Sebastián,1,1,0,1,1,0,4
+U01652,M,63,Bilbao,1,1,1,1,0,1,4
+U01653,F,65,Bilbao,1,0,0,1,1,1,3
+U01654,F,60,Bilbao,1,0,0,1,1,1,3
+U01655,F,49,Bilbao,1,1,1,1,0,1,4
+U01656,F,58,Bilbao,1,0,1,1,1,1,5
+U01657,M,48,Bilbao,1,0,0,1,0,1,4
+U01658,F,60,Irun,0,0,0,0,0,0,3
+U01659,F,60,Getxo,1,1,1,1,1,1,4
+U01660,F,51,Bermeo,1,1,1,1,1,1,5
+U01661,F,49,Bilbao,1,1,1,1,1,1,5
+U01662,F,59,Llodio,1,1,1,1,1,1,5
+U01663,M,62,Vitoria-Gasteiz,0,0,0,0,0,0,3
+U01664,F,64,Leioa,1,1,0,0,0,1,4
+U01665,F,26,Vitoria-Gasteiz,1,0,0,1,1,1,4
+U01666,F,57,Zarautz,1,0,0,1,1,1,4
+U01667,M,49,Vitoria-Gasteiz,1,0,0,1,0,1,4
+U01668,F,53,Durango,1,0,0,1,0,1,3
+U01669,F,55,Azpeitia,1,0,1,1,1,1,4
+U01670,F,54,Eibar,1,0,1,0,1,1,4
+U01671,F,62,Donostia-San Sebastián,1,1,0,1,1,1,4
+U01672,M,61,Basauri,0,0,0,0,0,1,3
+U01673,F,49,Vitoria-Gasteiz,1,1,0,1,1,1,4
+U01674,F,51,Vitoria-Gasteiz,1,0,0,1,0,1,4
+U01675,F,26,Bilbao,1,0,1,1,1,1,4
+U01676,F,54,Errenteria,1,1,1,1,1,0,4
+U01677,F,49,Donostia-San Sebastián,1,1,0,0,0,1,3
+U01678,F,34,Getxo,1,1,1,1,0,1,4
+U01679,M,52,Leioa,1,1,0,1,1,1,4
+U01680,F,64,Donostia-San Sebastián,1,0,0,1,1,1,4
+U01681,F,47,Vitoria-Gasteiz,0,0,0,0,0,1,3
+U01682,M,66,Portugalete,0,0,0,0,0,0,2
+U01683,F,47,Donostia-San Sebastián,1,1,1,1,0,1,4
+U01684,M,45,Vitoria-Gasteiz,1,1,0,1,1,1,3
+U01685,M,59,Bilbao,1,1,1,1,0,1,4
+U01686,F,63,Getxo,1,0,0,1,1,1,4
+U01687,M,51,Basauri,1,1,0,1,0,1,4
+U01688,M,51,Irun,1,1,0,1,1,1,4
+U01689,M,53,Salvatierra,0,0,0,0,0,1,2
+U01690,F,57,Barakaldo,0,0,0,0,0,1,3
+U01691,M,49,Barakaldo,1,0,0,0,1,1,4
+U01692,F,59,Donostia-San Sebastián,1,1,0,1,1,1,5
+U01693,M,47,Bilbao,0,0,0,0,0,1,3
+U01694,F,53,Donostia-San Sebastián,1,1,1,1,1,1,4
+U01695,F,48,Vitoria-Gasteiz,1,0,0,0,1,0,3
+U01696,M,47,Vitoria-Gasteiz,1,1,0,1,1,1,4
+U01697,F,50,Donostia-San Sebastián,1,1,1,1,1,0,5
+U01698,F,43,Vitoria-Gasteiz,0,0,0,0,0,0,2
+U01699,F,64,Bilbao,1,1,0,1,1,1,4
+U01700,M,61,Hernani,1,0,1,1,0,0,4
+U01701,M,47,Beasain,1,1,1,0,1,1,3
+U01702,F,33,Errenteria,1,1,1,0,1,1,4
+U01703,F,66,Irun,1,1,0,1,0,0,4
+U01704,F,48,Leioa,1,0,0,1,1,1,4
+U01705,M,70,Bilbao,1,0,0,0,0,1,3
+U01706,F,51,Getxo,1,1,0,0,0,0,4
+U01707,F,57,Bilbao,1,0,0,1,1,0,3
+U01708,F,59,Donostia-San Sebastián,1,1,1,1,1,1,4
+U01709,M,50,Amurrio,1,1,1,1,0,1,4
+U01710,F,58,Irun,1,1,0,1,0,0,3
+U01711,F,51,Getxo,0,0,0,0,0,0,3
+U01712,M,57,Basauri,1,1,0,1,1,1,4
+U01713,M,65,Portugalete,1,1,1,0,1,1,5
+U01714,F,46,Basauri,1,0,1,1,0,1,4
+U01715,M,53,Getxo,1,0,1,0,1,1,4
+U01716,F,53,Llodio,1,1,1,1,1,0,4
+U01717,M,62,Barakaldo,1,0,1,1,1,1,4
+U01718,F,65,Eibar,1,1,1,1,1,0,5
+U01719,F,47,Bilbao,0,0,0,0,0,1,2
+U01720,F,64,Errenteria,0,0,0,0,0,0,3
+U01721,F,47,Bilbao,1,1,0,0,0,0,3
+U01722,F,57,Donostia-San Sebastián,1,1,0,1,1,1,4
+U01723,F,54,Portugalete,1,0,1,1,0,0,3
+U01724,F,49,Vitoria-Gasteiz,1,1,1,0,1,1,4
+U01725,F,47,Barakaldo,1,1,1,1,1,1,4
+U01726,F,66,Bilbao,1,1,1,1,1,1,4
+U01727,F,47,Bermeo,0,0,0,0,0,0,3
+U01728,F,46,Donostia-San Sebastián,1,1,0,1,0,1,4
+U01729,F,61,Hernani,0,0,0,0,0,1,2
+U01730,F,48,Zarautz,1,1,1,1,1,1,4
+U01731,F,51,Bilbao,1,1,0,0,1,1,4
+U01732,F,52,Irun,1,1,0,1,1,1,4
+U01733,F,45,Bilbao,1,1,0,1,0,1,4
+U01734,M,62,Bilbao,0,0,0,0,0,1,3
+U01735,F,61,Donostia-San Sebastián,1,1,0,1,1,1,4
+U01736,M,60,Hernani,1,1,0,0,1,1,4
+U01737,F,55,Tolosa,1,1,1,0,1,1,4
+U01738,F,59,Tolosa,1,1,0,1,1,1,4
+U01739,M,55,Basauri,0,0,0,0,0,1,3
+U01740,M,48,Salvatierra,0,0,0,0,0,0,2
+U01741,F,59,Bilbao,1,0,1,1,1,1,4
+U01742,M,60,Donostia-San Sebastián,1,1,0,0,0,1,3
+U01743,F,50,Donostia-San Sebastián,1,1,1,1,0,0,4
+U01744,F,28,Vitoria-Gasteiz,1,1,1,1,0,1,4
+U01745,F,48,Vitoria-Gasteiz,1,0,1,1,0,1,4
+U01746,F,50,Basauri,0,0,0,0,0,1,3
+U01747,F,68,Bilbao,0,0,0,0,0,1,3
+U01748,M,46,Bilbao,1,1,1,0,1,1,4
+U01749,F,39,Tolosa,1,1,0,1,0,1,4
+U01750,F,64,Errenteria,1,0,0,1,0,1,3
+U01751,F,58,Basauri,1,1,1,1,1,1,5
+U01752,F,49,Bilbao,1,0,0,1,1,0,3
+U01753,F,48,Vitoria-Gasteiz,1,1,1,1,1,1,5
+U01754,F,58,Bilbao,1,1,1,1,1,1,4
+U01755,F,49,Mungia,1,1,1,1,1,1,5
+U01756,F,51,Donostia-San Sebastián,1,1,1,1,1,1,4
+U01757,F,45,Vitoria-Gasteiz,1,1,0,1,0,0,4
+U01758,M,59,Beasain,1,0,0,1,0,1,4
+U01759,F,52,Donostia-San Sebastián,1,1,0,1,1,1,5
+U01760,F,65,Donostia-San Sebastián,1,1,1,1,1,1,5
+U01761,F,60,Bilbao,1,1,1,1,1,1,4
+U01762,M,65,Mungia,0,0,0,0,0,1,2
+U01763,F,53,Irun,1,1,1,1,1,1,4
+U01764,F,59,Donostia-San Sebastián,1,0,0,0,1,0,3
+U01765,F,62,Hernani,1,1,0,0,0,1,3
+U01766,M,56,Bilbao,1,1,1,1,1,1,5
+U01767,M,47,Donostia-San Sebastián,1,1,1,1,0,0,4
+U01768,F,47,Bilbao,1,0,0,1,1,1,4
+U01769,F,58,Errenteria,1,1,1,1,1,0,3
+U01770,F,57,Bilbao,1,1,0,0,1,1,4
+U01771,F,56,Vitoria-Gasteiz,1,1,0,0,0,1,4
+U01772,F,45,Barakaldo,1,0,0,1,1,1,4
+U01773,M,45,Mungia,0,0,0,0,0,0,3
+U01774,M,50,Portugalete,1,1,0,0,1,1,4
+U01775,F,47,Santurtzi,0,0,0,0,0,0,2
+U01776,M,61,Donostia-San Sebastián,1,1,1,1,0,1,5
+U01777,M,37,Getxo,1,1,0,1,0,0,2
+U01778,F,70,Bilbao,1,1,1,1,1,1,4
+U01779,M,30,Bilbao,0,0,0,0,0,0,3
+U01780,F,58,Bilbao,1,1,0,1,0,1,4
+U01781,M,55,Leioa,1,0,1,0,0,1,4
+U01782,M,54,Errenteria,0,0,0,0,0,1,3
+U01783,F,57,Portugalete,1,1,0,0,1,1,3
+U01784,M,49,Salvatierra,1,1,0,1,1,1,4
+U01785,F,57,Bermeo,1,0,1,1,1,0,4
+U01786,F,49,Bilbao,1,0,0,1,1,1,4
+U01787,F,45,Vitoria-Gasteiz,1,0,0,1,1,1,4
+U01788,M,30,Tolosa,0,0,0,0,0,1,3
+U01789,F,56,Vitoria-Gasteiz,1,1,1,1,1,1,5
+U01790,M,64,Portugalete,1,1,0,0,1,1,3
+U01791,M,47,Eibar,1,1,1,1,1,1,5
+U01792,M,54,Irun,0,0,0,0,0,0,2
+U01793,M,50,Mungia,1,0,0,0,1,1,3
+U01794,M,61,Vitoria-Gasteiz,0,0,0,0,0,1,3
+U01795,M,64,Vitoria-Gasteiz,1,1,1,1,1,1,5
+U01796,F,50,Barakaldo,1,1,1,1,1,1,4
+U01797,M,55,Hernani,0,0,0,0,0,1,3
+U01798,F,52,Vitoria-Gasteiz,0,0,0,0,0,1,3
+U01799,F,61,Bilbao,1,1,1,1,1,1,4
+U01800,M,63,Errenteria,0,0,0,0,0,1,3
+U01801,M,50,Donostia-San Sebastián,1,1,1,1,0,1,3
+U01802,F,50,Amurrio,1,1,0,1,1,1,4
+U01803,M,57,Leioa,1,1,1,1,1,1,5
+U01804,F,60,Vitoria-Gasteiz,1,1,0,1,1,1,5
+U01805,F,52,Bilbao,1,0,0,1,1,1,3
+U01806,M,56,Errenteria,1,1,1,1,1,1,5
+U01807,F,64,Santurtzi,0,0,0,0,0,1,4
+U01808,F,58,Llodio,0,0,0,0,0,1,3
+U01809,F,50,Llodio,1,1,1,0,1,1,4
+U01810,M,62,Getxo,1,1,1,0,1,1,4
+U01811,M,63,Donostia-San Sebastián,1,0,0,1,0,1,3
+U01812,F,38,Errenteria,1,1,0,1,0,1,4
+U01813,F,58,Barakaldo,1,0,1,1,0,1,4
+U01814,M,51,Hernani,1,0,0,1,0,0,3
+U01815,M,34,Beasain,1,1,1,1,1,0,4
+U01816,M,49,Donostia-San Sebastián,1,0,1,1,1,1,5
+U01817,F,48,Vitoria-Gasteiz,1,1,1,1,0,0,4
+U01818,M,54,Vitoria-Gasteiz,1,1,1,0,0,1,3
+U01819,M,65,Barakaldo,1,1,0,1,1,1,5
+U01820,M,58,Vitoria-Gasteiz,1,1,0,0,0,0,4
+U01821,M,53,Barakaldo,1,0,1,1,1,1,4
+U01822,M,51,Santurtzi,1,1,1,1,1,1,5
+U01823,F,52,Bermeo,1,1,0,0,0,0,3
+U01824,F,56,Bilbao,1,0,1,0,0,1,4
+U01825,M,52,Bilbao,0,0,0,0,0,1,4
+U01826,F,60,Donostia-San Sebastián,1,1,1,1,1,0,4
+U01827,F,47,Bilbao,1,0,0,0,0,0,2
+U01828,F,59,Leioa,0,0,0,0,0,1,3
+U01829,M,61,Barakaldo,0,0,0,0,0,0,3
+U01830,F,46,Bilbao,1,1,0,1,0,1,4
+U01831,F,48,Amurrio,1,1,0,1,1,1,4
+U01832,M,63,Basauri,1,1,0,1,1,0,3
+U01833,F,65,Tolosa,1,1,0,1,1,1,4
+U01834,F,60,Santurtzi,1,1,0,1,1,1,4
+U01835,F,65,Donostia-San Sebastián,1,1,1,1,1,1,5
+U01836,M,52,Donostia-San Sebastián,0,0,0,0,0,0,3
+U01837,F,63,Bilbao,0,0,0,0,0,1,3
+U01838,F,53,Bilbao,1,0,0,0,1,0,3
+U01839,F,51,Hernani,1,0,1,1,0,0,3
+U01840,F,45,Donostia-San Sebastián,1,1,1,1,0,1,4
+U01841,F,45,Tolosa,1,1,1,1,0,1,4
+U01842,F,60,Bilbao,0,0,0,0,0,1,3
+U01843,M,47,Vitoria-Gasteiz,1,1,1,0,0,1,3
+U01844,F,54,Errenteria,0,0,0,0,0,1,3
+U01845,F,45,Barakaldo,1,0,1,1,0,1,4
+U01846,F,65,Portugalete,1,1,1,1,1,1,4
+U01847,M,48,Amurrio,0,0,0,0,0,0,3
+U01848,F,49,Vitoria-Gasteiz,1,0,0,0,0,1,3
+U01849,F,46,Barakaldo,1,0,0,1,1,1,4
+U01850,M,49,Amurrio,0,0,0,0,0,1,3
+U01851,M,55,Bilbao,1,1,1,1,0,1,4
+U01852,F,60,Portugalete,1,0,1,1,0,1,4
+U01853,F,45,Bilbao,1,1,0,1,1,1,4
+U01854,F,49,Bilbao,1,1,0,1,1,1,4
+U01855,F,28,Vitoria-Gasteiz,1,1,1,1,1,1,5
+U01856,M,46,Durango,1,0,0,0,1,1,4
+U01857,F,45,Donostia-San Sebastián,1,1,0,1,1,1,4
+U01858,F,56,Vitoria-Gasteiz,0,0,0,0,0,1,3
+U01859,M,61,Vitoria-Gasteiz,0,0,0,0,0,1,3
+U01860,F,51,Irun,1,0,1,0,1,1,4
+U01861,M,57,Santurtzi,1,1,0,0,0,1,4
+U01862,F,67,Durango,1,1,0,0,1,0,3
+U01863,F,58,Bilbao,0,0,0,0,0,1,3
+U01864,F,53,Hernani,1,1,1,1,1,0,4
+U01865,F,45,Getxo,1,1,0,1,1,1,4
+U01866,F,69,Barakaldo,1,0,0,0,1,1,4
+U01867,F,62,Bilbao,0,0,0,0,0,1,3
+U01868,F,63,Getxo,1,1,0,0,1,0,3
+U01869,F,45,Getxo,1,1,1,1,1,1,5
+U01870,F,58,Bilbao,1,1,0,1,1,1,5
+U01871,M,52,Zarautz,1,0,0,0,0,0,2
+U01872,M,56,Eibar,1,1,0,0,1,1,4
+U01873,M,42,Getxo,0,0,0,0,0,0,2
+U01874,F,47,Azpeitia,1,1,1,0,1,1,4
+U01875,M,55,Bilbao,1,0,0,1,1,1,3
+U01876,F,42,Donostia-San Sebastián,0,0,0,0,0,1,2
+U01877,M,61,Azpeitia,1,0,0,1,0,1,3
+U01878,M,52,Donostia-San Sebastián,1,1,0,0,1,1,3
+U01879,F,65,Barakaldo,1,1,1,1,1,0,4
+U01880,M,54,Barakaldo,1,1,1,0,0,1,4
+U01881,M,70,Donostia-San Sebastián,1,0,0,0,0,1,3
+U01882,F,70,Errenteria,1,1,1,1,1,0,4
+U01883,M,49,Hernani,1,1,0,1,1,0,4
+U01884,F,56,Irun,0,0,0,0,0,0,3
+U01885,F,56,Bilbao,1,1,1,1,0,1,4
+U01886,M,63,Bilbao,1,1,0,1,1,1,5
+U01887,F,68,Vitoria-Gasteiz,1,1,0,1,1,1,4
+U01888,M,64,Irun,1,1,1,0,0,0,3
+U01889,F,45,Bilbao,1,1,0,1,1,1,4
+U01890,F,51,Irun,0,0,0,0,0,0,2
+U01891,F,57,Donostia-San Sebastián,1,1,1,1,1,1,5
+U01892,F,50,Donostia-San Sebastián,1,1,0,1,0,0,3
+U01893,F,50,Donostia-San Sebastián,1,1,0,1,1,1,3
+U01894,M,57,Santurtzi,1,1,1,1,0,1,5
+U01895,M,51,Barakaldo,1,1,0,0,0,1,3
+U01896,M,45,Irun,1,1,1,0,1,1,4
+U01897,F,46,Bilbao,0,0,0,0,0,1,4
+U01898,M,65,Irun,1,1,0,0,0,0,3
+U01899,F,64,Bilbao,1,1,0,1,0,1,4
+U01900,F,56,Portugalete,0,0,0,0,0,1,3
+U01901,M,64,Durango,0,0,0,0,0,1,4
+U01902,F,59,Bilbao,1,1,1,1,1,1,4
+U01903,M,56,Tolosa,1,0,1,1,1,1,4
+U01904,F,45,Leioa,1,1,1,1,1,0,3
+U01905,F,49,Irun,1,1,1,1,1,1,5
+U01906,M,62,Tolosa,1,0,0,1,0,1,3
+U01907,M,36,Vitoria-Gasteiz,1,0,1,1,1,1,4
+U01908,F,53,Bilbao,1,1,1,0,1,1,5
+U01909,M,61,Vitoria-Gasteiz,1,0,0,1,1,1,5
+U01910,M,64,Getxo,0,0,0,0,0,0,2
+U01911,F,68,Bilbao,0,0,0,0,0,0,3
+U01912,F,47,Bilbao,1,1,1,0,1,1,5
+U01913,F,55,Leioa,1,0,0,1,1,1,3
+U01914,F,56,Donostia-San Sebastián,1,0,0,1,0,0,3
+U01915,M,63,Bilbao,0,0,0,0,0,0,2
+U01916,M,48,Vitoria-Gasteiz,1,1,0,1,1,0,4
+U01917,M,58,Getxo,1,1,1,1,1,1,5
+U01918,F,50,Zarautz,1,0,1,1,0,1,3
+U01919,F,62,Eibar,1,1,1,0,1,1,4
+U01920,M,41,Santurtzi,1,1,1,1,1,1,4
+U01921,F,53,Leioa,1,1,0,0,1,0,4
+U01922,M,60,Donostia-San Sebastián,1,1,1,1,0,1,4
+U01923,F,63,Tolosa,1,0,0,1,1,0,4
+U01924,F,57,Vitoria-Gasteiz,0,0,0,0,0,1,4
+U01925,M,52,Salvatierra,1,0,0,1,0,1,4
+U01926,F,51,Donostia-San Sebastián,1,1,0,1,1,0,3
+U01927,F,61,Durango,0,0,0,0,0,1,3
+U01928,M,58,Bermeo,1,0,0,0,1,1,4
+U01929,M,51,Portugalete,0,0,0,0,0,1,2
+U01930,F,51,Santurtzi,1,1,1,1,1,1,5
+U01931,M,36,Santurtzi,1,0,0,1,1,1,4
+U01932,F,59,Portugalete,1,0,1,1,1,1,4
+U01933,F,59,Durango,1,0,0,0,1,1,4
+U01934,F,58,Barakaldo,1,0,1,1,0,0,3
+U01935,M,53,Bilbao,0,0,0,0,0,1,3
+U01936,M,74,Bermeo,1,1,0,1,0,1,4
+U01937,F,59,Zarautz,1,1,1,1,0,1,4
+U01938,M,58,Bilbao,1,0,1,0,0,1,4
+U01939,F,45,Azpeitia,1,0,0,0,0,1,4
+U01940,F,60,Llodio,0,0,0,0,0,1,3
+U01941,M,75,Durango,1,1,1,1,1,1,5
+U01942,M,63,Donostia-San Sebastián,1,1,1,1,0,0,4
+U01943,F,31,Donostia-San Sebastián,0,0,0,0,0,1,3
+U01944,M,57,Basauri,1,1,0,1,1,1,3
+U01945,F,46,Zarautz,0,0,0,0,0,0,2
+U01946,M,65,Mungia,0,0,0,0,0,0,2
+U01947,M,54,Donostia-San Sebastián,1,1,0,1,1,1,5
+U01948,F,53,Donostia-San Sebastián,1,1,0,1,1,0,4
+U01949,F,47,Vitoria-Gasteiz,1,1,1,0,1,1,4
+U01950,F,52,Irun,0,0,0,0,0,1,2
+U01951,M,54,Basauri,1,1,0,1,1,1,4
+U01952,F,55,Bilbao,0,0,0,0,0,1,2
+U01953,F,47,Barakaldo,1,1,0,0,1,1,4
+U01954,M,51,Portugalete,1,1,0,0,0,0,3
+U01955,F,49,Donostia-San Sebastián,1,1,1,1,1,1,5
+U01956,F,47,Vitoria-Gasteiz,1,0,1,0,1,1,4
+U01957,M,45,Bilbao,1,1,1,1,1,1,4
+U01958,F,54,Barakaldo,1,1,1,0,1,1,4
+U01959,F,50,Getxo,1,1,1,1,0,1,4
+U01960,M,53,Mungia,0,0,0,0,0,1,3
+U01961,F,56,Basauri,1,1,0,1,1,1,4
+U01962,M,53,Bilbao,1,1,1,1,1,0,3
+U01963,M,71,Bilbao,1,1,0,0,0,1,4
+U01964,M,73,Eibar,1,1,0,0,0,1,4
+U01965,M,66,Barakaldo,1,1,1,0,1,1,4
+U01966,F,61,Errenteria,1,1,1,1,1,1,4
+U01967,F,48,Bilbao,1,1,1,1,1,1,4
+U01968,F,63,Bilbao,1,1,0,1,1,1,4
+U01969,F,55,Errenteria,1,1,0,1,1,1,4
+U01970,M,63,Donostia-San Sebastián,1,1,0,1,0,0,4
+U01971,M,57,Bilbao,1,0,1,0,0,1,4
+U01972,F,58,Donostia-San Sebastián,0,0,0,0,0,0,2
+U01973,F,58,Bilbao,0,0,0,0,0,1,3
+U01974,M,58,Barakaldo,1,1,0,0,0,1,3
+U01975,F,65,Bilbao,1,1,0,1,0,0,4
+U01976,M,45,Llodio,0,0,0,0,0,0,2
+U01977,F,58,Leioa,0,0,0,0,0,1,3
+U01978,F,45,Vitoria-Gasteiz,0,0,0,0,0,1,3
+U01979,F,61,Vitoria-Gasteiz,1,0,1,1,0,1,4
+U01980,M,54,Barakaldo,1,1,1,1,1,1,4
+U01981,F,62,Basauri,1,1,1,1,1,0,5
+U01982,F,64,Zarautz,1,1,0,1,0,1,4
+U01983,M,49,Errenteria,1,0,0,1,1,1,4
+U01984,F,58,Bilbao,1,1,0,1,1,1,5
+U01985,F,48,Getxo,1,0,0,0,1,1,3
+U01986,M,62,Basauri,0,0,0,0,0,1,3
+U01987,F,62,Leioa,1,1,1,0,0,1,5
+U01988,M,46,Tolosa,1,1,0,1,0,0,4
+U01989,M,26,Beasain,1,1,0,0,1,1,4
+U01990,M,52,Bilbao,1,1,1,1,0,0,4
+U01991,F,45,Donostia-San Sebastián,1,1,0,0,1,1,3
+U01992,M,50,Bilbao,1,1,1,0,1,1,3
+U01993,M,38,Donostia-San Sebastián,0,0,0,0,0,1,3
+U01994,F,47,Eibar,1,0,1,0,1,1,4
+U01995,F,55,Donostia-San Sebastián,1,1,1,1,1,1,5
+U01996,F,61,Azpeitia,1,0,1,0,0,0,3
+U01997,M,58,Basauri,1,0,0,0,1,1,3
+U01998,M,52,Vitoria-Gasteiz,1,0,1,1,1,1,5
+U01999,M,63,Barakaldo,1,1,1,0,0,1,4
+U02000,M,69,Santurtzi,1,1,1,1,1,1,5
