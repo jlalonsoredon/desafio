@@ -1,4 +1,4 @@
-﻿Id_user,Sexo,Edad,Municipio,Restaurantes,Restaurantes_Restaurante,Restaurantes_Asador,Restaurantes_Sidreria,Bodegas,Questerias,Gourmet,Gourmet_Agricultura_ecologica,Gourmet_Denominacion_de_Origen,Gourmet_Eusko_Label,Gourmet_Euskal_Baserri,Target_Review
+﻿Id_user,Sexo,Edad,Municipio,Restaurantes,Restaurantes_Restaurante,Restaurantes_Asador,Restaurantes_Sidreria,Bodegas,Queserias,Gourmet,Gourmet_Agricultura_ecologica,Gourmet_Denominacion_de_Origen,Gourmet_Eusko_Label,Gourmet_Euskal_Baserri,Target_Review
 U00001,F,70,Bilbao,1,1,1,1,1,1,1,1,1,1,1,4
 U00002,F,67,Bilbao,1,0,1,0,1,1,1,0,1,1,1,5
 U00003,M,57,Portugalete,1,0,1,0,1,1,0,0,0,0,0,3
