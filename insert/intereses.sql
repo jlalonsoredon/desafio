@@ -1,0 +1,33 @@
+INSERT INTO user_data.interests (id_interes, nombre, father_id, level) VALUES
+(1, 'Eventos', NULL, 0),
+(2, 'Gastronomía', NULL, 0),
+(3, 'Puntos de interés', NULL, 0),
+(4, 'Concierto y Festival', 1, 1),
+(5, 'Fiestas y Feria', 1, 1),
+(6, 'Teatro', 1, 1),
+(7, 'Danza', 1, 1),
+(8, 'Conferencia, Eventos/jornadas, Presentación', 1, 1),
+(9, 'Cine y audiovisuales', 1, 1),
+(10, 'Bertsolarismo', 1, 1),
+(11, 'Exposición', 1, 1),
+(12, 'Formación', 1, 1),
+(13, 'Concurso', 1, 1),
+(14, 'Hostelería', 2, 1),
+(15, 'Queserías', 2, 1),
+(16, 'Gourmet', 2, 1),
+(17, 'Restaurante', 14, 2),
+(18, 'Asador', 14, 2),
+(19, 'Sidrería', 14, 2),
+(20, 'Bodegas', 14, 2),
+(21, 'Agricultura ecológica', 16, 2),
+(22, 'Denominación de Origen', 16, 2),
+(23, 'Eusko Label', 16, 2),
+(24, 'Euskal Baserri', 16, 2),
+(25, 'Museos: Historia', 3, 1),
+(26, 'Ciencias naturales', 3, 1),
+(27, 'Arte', 3, 1),
+(28, 'Etnografía', 3, 1),
+(29, 'Patrimonio cultural', 3, 1);
+
+-- Reiniciar la secuencia para que los próximos inserts automáticos no choquen con estos IDs manuales
+ALTER SEQUENCE market_data.interests_id_seq RESTART WITH 30;
