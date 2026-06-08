@@ -60,9 +60,9 @@ INSERT INTO shared.municipalities (nombre, provincia, nora_code, province_code, 
 ('Barakaldo', 'Bizkaia', '48020', 48, 43.2967, -2.9878),
 ('Barrika', 'Bizkaia', '48021', 48, 43.3833, -2.9833),
 ('Basauri', 'Bizkaia', '48022', 48, 43.2367, -2.8889),
-('Belauntza', 'Bizkaia', '48023', 48, 43.1333, -2.1833), -- CORREGIDO: Era 48025, ahora 48023
+('Belauntza', 'Bizkaia', '48023', 48, 43.1333, -2.1833),
 ('Berango', 'Bizkaia', '48024', 48, 43.3667, -2.9833),
-('Bermeo', 'Bizkaia', '48025', 48, 43.4211, -2.7239), -- CORRECTO: 48025
+('Bermeo', 'Bizkaia', '48025', 48, 43.4211, -2.7239),
 ('Berriatua', 'Bizkaia', '48026', 48, 43.3167, -2.6667),
 ('Berriz', 'Bizkaia', '48027', 48, 43.1833, -2.6333),
 ('Bilbao', 'Bizkaia', '48028', 48, 43.2630, -2.9350),
