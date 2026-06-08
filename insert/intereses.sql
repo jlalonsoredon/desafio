@@ -28,6 +28,3 @@ INSERT INTO user_data.interests (id_interes, nombre, father_id, level) VALUES
 (27, 'Arte', 3, 1),
 (28, 'Etnografía', 3, 1),
 (29, 'Patrimonio cultural', 3, 1);
-
--- Reiniciar la secuencia para que los próximos inserts automáticos no choquen con estos IDs manuales
-ALTER SEQUENCE market_data.interests_id_seq RESTART WITH 30;
