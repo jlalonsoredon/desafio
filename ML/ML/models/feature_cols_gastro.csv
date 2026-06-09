@@ -1,5 +1,4 @@
 0
-id
 age
 Agricultura ecológica
 Arte
@@ -28,8 +27,32 @@ Restaurante
 Sidrería
 Teatro
 municipality_10
+municipality_13
+municipality_14
+municipality_17
+municipality_18
+municipality_19
+municipality_2
 municipality_20
-municipality_48
+municipality_21
+municipality_22
+municipality_23
+municipality_24
+municipality_27
+municipality_28
+municipality_32
+municipality_37
+municipality_45
+municipality_54
+municipality_6
+municipality_62
+municipality_64
+municipality_66
+municipality_71
+municipality_78
+municipality_8
+municipality_87
+municipality_95
 sexo_hombre
 sexo_mujer
 sexo_otro
@@ -41,9 +64,9 @@ Denominación de Origen_y
 Agricultura Ecológica 
 Euskal Baserri_y
 Eusko Label_y
-Provincia_Guipúzcoa
-Provincia_Vizcaya
-Provincia_Álava
+Provincia_Araba
+Provincia_Bizkaia
+Provincia_Gipuzkoa
 Tipo de lugar_Asador
 Tipo de lugar_Bodega
 Tipo de lugar_Bodega Txakoli

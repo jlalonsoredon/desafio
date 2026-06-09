@@ -28,15 +28,54 @@ Restaurante
 Sidrería
 Teatro
 municipality_10
+municipality_13
+municipality_14
+municipality_17
+municipality_18
+municipality_19
+municipality_2
 municipality_20
-municipality_48
+municipality_21
+municipality_22
+municipality_23
+municipality_24
+municipality_27
+municipality_28
+municipality_32
+municipality_37
+municipality_45
+municipality_54
+municipality_6
+municipality_62
+municipality_64
+municipality_66
+municipality_71
+municipality_78
+municipality_8
+municipality_87
+municipality_95
 sexo_hombre
 sexo_mujer
 sexo_otro
+culture_id_y
 Visita Guiada
 Capacidad
 Tienda
 num_resenas
-culture_id_y
+tipo_lugar_Museo
+tipo_lugar_Patrimonio cultural
+prov_lugar_Araba
+prov_lugar_Bizkaia
+prov_lugar_Gipuzkoa
+tipo_cultura_Arte
+tipo_cultura_Artesanía
+tipo_cultura_Ciencias Naturales
+tipo_cultura_Etnografía
+tipo_cultura_Gastronomía
+tipo_cultura_Historia
+tipo_cultura_Marítimo
+tipo_cultura_Otros
+tipo_cultura_Patrimonio Cultural
+tipo_cultura_Religión
 afinidad
 valoracion_scaled
