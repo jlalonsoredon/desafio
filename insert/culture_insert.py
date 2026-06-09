@@ -7,8 +7,8 @@ df = pd.read_csv('../data/patrimonio.csv')
 print(f"Registros leídos: {len(df)}")
 
 # ── 2. Normalizar municipios ─────────────────────────────────────────────────
-conn = psycopg2.connect(host="localhost", database="postgres",
-                        user="postgres", password="1234")
+conn = psycopg2.connect(host="localhost", database="sustraiapp",
+                        user="postgres", password="postgres")
 df_munis = pd.read_sql("SELECT id, nombre FROM shared.municipalities", conn)
 conn.close()
 
@@ -100,8 +100,8 @@ query_insert = f"""
 
 try:
     conn = psycopg2.connect(
-        host="localhost", database="postgres",
-        user="postgres", password="1234",
+        host="localhost", database="sustraiapp",
+        user="postgres", password="postgres",
         options="-c client_encoding=UTF8"
     )
     cur = conn.cursor()
