@@ -14,6 +14,10 @@
 
 > Plataforma de recomendación conversacional de experiencias culturales, patrimoniales y gastronómicas de Euskadi, desarrollada en el marco del **Desafío de Tripulaciones** (proyecto multi-equipo).
 
+<p align="center">
+  <img src="img/Infografía_de_aplicación_turística_inteligente.png" alt="Visión general de SustraiApp: verticales de experiencia, motor de inteligencia conversacional, sistema de recomendación híbrido y stack tecnológico" width="100%">
+</p>
+
 ---
 
 ## Tabla de contenidos
@@ -204,6 +208,6 @@ Los catálogos se construyen a partir de fuentes de datos abiertos:
 - El modo demo genera interacciones con estructura de bajo rango (alto HR@10) y es **ilustrativo**, no representativo de un escenario real.
 - La arquitectura *Two-Tower* figura en la hoja de ruta como solución de *cold-start* de producción; aún no está validada en rendimiento.
 
----
 
 _Proyecto académico — Desafío de Tripulaciones._
+
