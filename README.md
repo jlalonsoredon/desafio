@@ -18,6 +18,10 @@
   <img src="img/Infografía_de_aplicación_turística_inteligente.png" alt="Visión general de SustraiApp: verticales de experiencia, motor de inteligencia conversacional, sistema de recomendación híbrido y stack tecnológico" width="100%">
 </p>
 
+<p align="center">
+  <img src="img/demo_web.gif" alt="SustraiApp en funcionamiento — interfaz web" width="100%">
+</p>
+
 ---
 
 ## Tabla de contenidos
@@ -201,7 +205,6 @@ Los catálogos se construyen a partir de fuentes de datos abiertos:
 > **Sobre los datos de usuario e interacciones:** son **sintéticos**, generados para validar el pipeline y permitir las demostraciones. No corresponden a personas reales y no deben interpretarse como métricas de rendimiento en producción.
 
 
-
 ## Notas y limitaciones
 
 - Las métricas obtenidas sobre **datos sintéticos** validan el funcionamiento del pipeline, no la calidad real del modelo en producción.
@@ -209,5 +212,6 @@ Los catálogos se construyen a partir de fuentes de datos abiertos:
 - La arquitectura *Two-Tower* figura en la hoja de ruta como solución de *cold-start* de producción; aún no está validada en rendimiento.
 
 
-_Proyecto académico — Desafío de Tripulaciones._
+---
 
+_Proyecto académico — Desafío de Tripulaciones._
