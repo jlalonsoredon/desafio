@@ -27,6 +27,7 @@ Restaurante
 Sidrería
 Teatro
 municipality_10
+<<<<<<< HEAD
 municipality_20
 municipality_48
 sexo_hombre
@@ -39,6 +40,43 @@ is_free
 year
 month
 is_weekend
+=======
+municipality_13
+municipality_14
+municipality_17
+municipality_18
+municipality_19
+municipality_2
+municipality_20
+municipality_21
+municipality_22
+municipality_23
+municipality_24
+municipality_27
+municipality_28
+municipality_32
+municipality_37
+municipality_45
+municipality_54
+municipality_6
+municipality_62
+municipality_64
+municipality_66
+municipality_71
+municipality_78
+municipality_8
+municipality_87
+municipality_95
+sexo_hombre
+sexo_mujer
+sexo_otro
+is_free
+online
+provinceNoraCode
+is_weekend
+year
+month
+>>>>>>> 50c68bc0572ca10e844190465364ac4dae3604f0
 price_eur_log
 tipo_Bertsolarismo
 tipo_Cine y audiovisuales
