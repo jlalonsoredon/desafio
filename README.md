@@ -196,36 +196,13 @@ Los catálogos se construyen a partir de fuentes de datos abiertos:
 
 > **Sobre los datos de usuario e interacciones:** son **sintéticos**, generados para validar el pipeline y permitir las demostraciones. No corresponden a personas reales y no deben interpretarse como métricas de rendimiento en producción.
 
-## Equipo
 
-Proyecto desarrollado por varios equipos en el marco del Desafío de Tripulaciones:
-
-- **Data Science** — sistema de recomendación, chatbot y notebooks de modelado.
-- **Full Stack** — backend Flask, base de datos PostgreSQL e integración entre equipos.
-- **Ciberseguridad** — vertical de seguridad.
-
-> _Completa esta sección con los nombres y roles de cada integrante._
 
 ## Notas y limitaciones
 
 - Las métricas obtenidas sobre **datos sintéticos** validan el funcionamiento del pipeline, no la calidad real del modelo en producción.
 - El modo demo genera interacciones con estructura de bajo rango (alto HR@10) y es **ilustrativo**, no representativo de un escenario real.
 - La arquitectura *Two-Tower* figura en la hoja de ruta como solución de *cold-start* de producción; aún no está validada en rendimiento.
-
-## Identidad de marca
-
-Paleta de color definida por el equipo de marketing:
-
-| Muestra | Color | Hex |
-| ------- | ----- | --- |
-| ![](https://placehold.co/22x22/29366d/29366d.png) | Azul marino (principal) | `#29366d` |
-| ![](https://placehold.co/22x22/5e3d59/5e3d59.png) | Ciruela | `#5e3d59` |
-| ![](https://placehold.co/22x22/7f557b/7f557b.png) | Morado | `#7f557b` |
-| ![](https://placehold.co/22x22/e8eaca/e8eaca.png) | Crema | `#e8eaca` |
-| ![](https://placehold.co/22x22/fcffe2/fcffe2.png) | Crema claro | `#fcffe2` |
-
-**Tipografías:** *Italiana* (logotipo) · *Inter* (texto y lema).
-**Lema:** _Donde la localidad es costumbre._
 
 ---
 
